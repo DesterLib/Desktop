@@ -7,10 +7,10 @@
 </script>
 
 <div class="w-[68px] h-full p-2 space-y-2">
-	<div class="aspect-square flex justify-center items-center p-2">
-		<img src={logo} alt="" />
+	<div class="aspect-square flex justify-center items-center p-2.5">
+		<img class="h-full w-full" src={logo} alt="" />
 	</div>
-	<div class="space-y-2">
+	<div class="space-y-2 p-0.5">
 		<IconButton variant="nav" icon={homeIcon} />
 		<IconButton variant="nav" icon={browseIcon} />
 		<IconButton variant="nav" icon={bookmarksIcon} />
