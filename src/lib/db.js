@@ -22,6 +22,34 @@ const database = {
 			year: 2021,
 			type: 'Movie',
 			language: 'English'
+		},
+		{
+			title: 'Encanto',
+			image: 'https://image.tmdb.org/t/p/original/4rQPEA0k6EursVxmOEaZsKGlFfB.jpg',
+			year: 2021,
+			type: 'Movie',
+			language: 'English'
+		},
+		{
+			title: 'Encanto',
+			image: 'https://image.tmdb.org/t/p/original/4rQPEA0k6EursVxmOEaZsKGlFfB.jpg',
+			year: 2021,
+			type: 'Movie',
+			language: 'English'
+		},
+		{
+			title: 'Encanto',
+			image: 'https://image.tmdb.org/t/p/original/4rQPEA0k6EursVxmOEaZsKGlFfB.jpg',
+			year: 2021,
+			type: 'Movie',
+			language: 'English'
+		},
+		{
+			title: 'Encanto',
+			image: 'https://image.tmdb.org/t/p/original/4rQPEA0k6EursVxmOEaZsKGlFfB.jpg',
+			year: 2021,
+			type: 'Movie',
+			language: 'English'
 		}
 	]
 };

@@ -9,8 +9,8 @@
 	}
 
 	::-webkit-scrollbar {
-		height: 4px;
-		width: 4px;
+		height: 6px;
+		width: 6px;
 		background-color: rgba(133, 133, 133, 0.1);
 	}
 
