@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    @apply bg-[#0E0E0E] text-white overflow-hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  ::-webkit-scrollbar {
+    height: 6px;
+    width: 6px;
+    background-color: rgba(133, 133, 133, 0.1);
+  }
+
+  ::-webkit-scrollbar-thumb:horizontal {
+    background: rgba(133, 133, 133, 0.3);
+    border-radius: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb:vertical {
+    background: rgba(133, 133, 133, 0.3);
+    border-radius: 10px;
+  }
+}
+
+.animate-gradient {
+  background-size: 300%;
+  -webkit-animation: animatedgradient 6s ease infinite alternate;
+  -moz-animation: animatedgradient 6s ease infinite alternate;
+  animation: animatedgradient 6s ease infinite alternate;
+}
+
+@keyframes animatedgradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
