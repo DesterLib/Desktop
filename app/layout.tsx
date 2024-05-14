@@ -26,7 +26,7 @@ export default function RootLayout({
             <Sidebar />
             <div className="w-[calc(100%-68px)] h-screen">
               <Navbar />
-              <div className="w-full h-[calc(100%-68px)] overflow-y-scroll rounded-lg">
+              <div className="w-full h-[calc(100%-68px)] overflow-y-scroll rounded-lg pr-4">
                 {children}
               </div>
             </div>

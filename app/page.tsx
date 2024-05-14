@@ -1,6 +1,7 @@
-import { MainSlider } from "@/lib/components/MainSlider";
+import { MainSlider } from "@/lib/components/MainSlider/MainSlider";
 import database from "@/db/db";
 import Slider from "@/lib/components/Slider";
+import Head from "next/head";
 
 export default function Home() {
   return (

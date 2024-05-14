@@ -7,16 +7,15 @@ const Background = () => {
   const [colors, setColors] = useState([]);
 
   useEffect(() => {
-    const unsubscribe = useBackgroundStore.subscribe((state) => {
+    useBackgroundStore.subscribe((state) => {
       setColors(state.colors);
     });
-    return unsubscribe;
   }, []);
 
   const { background } = useSpring({
     background: `linear-gradient(145deg, ${colors[0]?.hex || "#0b0f12"} 0%, ${
       colors[1]?.hex || "#0b0f12"
-    } 10%, #0b0f12 30%, #0b0f12 100%)`,
+    } 20%, #0b0f12 40%, #0b0f12 100%)`,
   });
 
   return (
