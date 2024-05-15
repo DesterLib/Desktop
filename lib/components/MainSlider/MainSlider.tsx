@@ -38,7 +38,7 @@ export const MainSlider = ({ data, options }: any) => {
       <section className="embla relative">
         <div className="embla__viewport" ref={emblaRef}>
           <div className="embla__container">
-            {data.map((item, index) => (
+            {data.map((item: any, index: number) => (
               <div className="embla__slide relative" key={index}>
                 <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-tl from-black to-transparent"></div>
                 <img

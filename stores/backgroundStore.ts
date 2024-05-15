@@ -1,6 +1,14 @@
 import { create } from "zustand";
 
-const useBackgroundStore = create((set) => ({
+interface ColorsProps {
+  hex: string;
+}
+
+export interface BackgroundStoreProps {
+  colors: ColorsProps[];
+}
+
+const useBackgroundStore = create<BackgroundStoreProps>()(() => ({
   colors: [],
 }));
 

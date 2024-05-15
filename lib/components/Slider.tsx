@@ -4,12 +4,16 @@ import React, { useRef, useState } from "react";
 import Card from "./Card";
 
 const Slider = ({ data, gradiantText, variant, title }: any) => {
-  const sliderRef = useRef(null);
-  const [isDrag, setIsDrag] = useState(false);
+  const sliderRef = useRef<HTMLDivElement>(null);
+  const [isDrag, setIsDrag] = useState<boolean>(false);
 
-  const dragStart = () => setIsDrag(true);
-  const dragEnd = () => setIsDrag(false);
-  const drag = (ev) => isDrag && (sliderRef.current.scrollLeft -= ev.movementX);
+  const dragStart = (): void => setIsDrag(true);
+  const dragEnd = (): void => setIsDrag(false);
+  const drag = (ev: React.MouseEvent<HTMLDivElement>): void => {
+    if (isDrag && sliderRef.current) {
+      sliderRef.current.scrollLeft -= ev.movementX;
+    }
+  };
 
   return (
     <section className="space-y-4">
@@ -30,7 +34,7 @@ const Slider = ({ data, gradiantText, variant, title }: any) => {
         className="overflow-x-scroll w-full"
       >
         <div className="w-fit flex space-x-4 pb-2">
-          {data.map((item, index) => (
+          {data.map((item: any, index: number) => (
             <Card key={index} info={item} variant={variant} />
           ))}
         </div>

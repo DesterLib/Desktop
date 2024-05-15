@@ -1,10 +1,12 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import { animated, useSpring } from "@react-spring/web";
-import useBackgroundStore from "@/stores/backgroundStore";
+import useBackgroundStore, {
+  BackgroundStoreProps,
+} from "@/stores/backgroundStore";
 
 const Background = () => {
-  const [colors, setColors] = useState([]);
+  const [colors, setColors] = useState<BackgroundStoreProps["colors"]>([]);
 
   useEffect(() => {
     useBackgroundStore.subscribe((state) => {
