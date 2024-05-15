@@ -33,6 +33,11 @@ jobs:
         with:
           node-version: lts/*
 
+      - name: pnpm install
+        uses: pnpm/action-setup@v3
+        with:
+          version: 8
+
       - name: install Rust stable
         uses: dtolnay/rust-toolchain@stable
         with:
