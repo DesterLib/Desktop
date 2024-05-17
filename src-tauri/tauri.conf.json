@@ -12,7 +12,11 @@
   },
   "tauri": {
     "allowlist": {
-      "all": false
+      "all": false,
+      "protocol": {
+        "asset": true,
+        "assetScope": ["**"]
+      }
     },
     "bundle": {
       "active": true,
@@ -48,7 +52,7 @@
       }
     },
     "security": {
-      "csp": null
+      "csp": "default-src: 'self'; media-src 'self' asset:"
     },
     "updater": {
       "active": false
