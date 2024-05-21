@@ -6,7 +6,7 @@ import Icon, { IconName } from "./Icon";
 
 const button = cva(
   [
-    "rounded-lg",
+    "rounded-xl",
     "w-fit",
     "font-semibold",
     "flex",
@@ -26,13 +26,14 @@ const button = cva(
           "hover:bg-white/20",
           "active:bg-white/40",
           "text-white",
-          "backdrop-blur-lg",
+          "backdrop-blur-sm",
           "border",
           "border-white/20",
         ],
       },
       size: {
-        small: ["text-base", "py-2", "px-4", "h-10"],
+        small: ["text-sm", "px-2", "h-8"],
+        large: ["text-lg", "px-4", "h-12"],
       },
     },
     defaultVariants: {
@@ -58,7 +59,11 @@ const Button: React.FC<ButtonProps> = ({
 }) => (
   <button className={button({ variant, size, className })} {...props}>
     {icon ? (
-      <div className="mr-2 h-5 w-5 flex justify-center items-center aspect-square">
+      <div
+        className={`mr-1 flex justify-center items-center aspect-square ${
+          size === "large" ? "h-6 w-6" : "h-4 w-4"
+        }`}
+      >
         <Icon icon={icon} />
       </div>
     ) : (
