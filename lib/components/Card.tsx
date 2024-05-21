@@ -1,54 +1,23 @@
-import Button from "./Button";
-import IconButton from "./IconButton";
+import Chip from "./Chip";
 
-const Card = ({ info, variant = "h" }: any) => {
-  if (variant === "h") {
-    return (
-      <div className="w-[400px] h-[220px] rounded-xl relative overflow-hidden cursor-grab active:cursor-grabbing">
-        <div className="absolute w-full h-full flex flex-col justify-between bg-gradient-to-tr from-black to-transparent">
-          <div className="absolute px-3 p-2">
-            <div className="text-white font-semibold">{info.title}</div>
-            <div className="text-white/60 text-sm">
-              {info.year} | {info.type} | {info.language}
-            </div>
-          </div>
-          <div className="absolute p-2 bottom-0 flex items-center space-x-2">
-            <Button variant="primary" icon="play">
-              Play Now
-            </Button>
-            <Button variant="secondary" icon="bookmarks">
-              Watchlist
-            </Button>
-          </div>
-        </div>
+const Card = ({ item }: any) => {
+  return (
+    <div className="w-full space-y-2">
+      <div className="rounded-xl aspect-video overflow-hidden relative">
+        <Chip className="absolute top-2 left-2">{item.type}</Chip>
+        <div className="absolute top-0 left-0 w-full h-full border-2 rounded-xl border-white/10"></div>
         <img
-          className="object-fill w-full h-full"
-          src={info.wallpaper}
+          className="object-cover h-full w-full"
+          src={item.wallpaper}
           alt=""
         />
       </div>
-    );
-  } else {
-    return (
-      <div className="w-[220px] h-[320px] rounded-xl relative overflow-hidden cursor-grab active:cursor-grabbing group">
-        <div className="absolute w-full h-full flex flex-col justify-between bg-gradient-to-tr from-black to-transparent">
-          <div className="absolute px-3 p-2">
-            <div className="text-white font-semibold">{info.title}</div>
-            <div className="text-white/60 text-sm">
-              {info.year} | {info.type} | {info.language}
-            </div>
-          </div>
-          <div className="absolute p-2 bottom-0 flex items-center space-x-2 opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto">
-            <Button variant="primary" icon="play">
-              Play
-            </Button>
-            <IconButton icon="bookmarks" size="small" variant="secondary" />
-          </div>
-        </div>
-        <img className="object-fill w-full h-full" src={info.poster} alt="" />
+      <div>
+        <div className="truncate">{item.title}</div>
+        <div className="text-white/60">{item.year}</div>
       </div>
-    );
-  }
+    </div>
+  );
 };
 
 export default Card;

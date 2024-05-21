@@ -28,7 +28,7 @@ const button = cva(
           "hover:bg-white/20",
           "active:bg-white/40",
           "text-white",
-          "backdrop-blur-lg",
+          "backdrop-blur-sm",
           "border",
           "border-white/20",
         ],
@@ -42,7 +42,7 @@ const button = cva(
       },
       size: {
         medium: ["p-3"],
-        small: ["p-2.5", "h-10", "w-10"],
+        small: ["p-1.5", "h-8", "w-8"],
       },
     },
     defaultVariants: {

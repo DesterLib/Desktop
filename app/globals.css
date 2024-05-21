@@ -2,8 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --swiper-theme-color: #ffffff !important;
+  --swiper-navigation-color: #ffffff !important;
+}
+
 @layer base {
-  html,
+  html {
+    overflow: hidden;
+  }
+
   body {
     @apply bg-[#0E0E0E] text-white overflow-hidden;
     -webkit-tap-highlight-color: transparent;
@@ -16,17 +24,22 @@
   }
 
   ::-webkit-scrollbar {
+    display: none;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
     height: 6px;
     width: 6px;
     background-color: rgba(133, 133, 133, 0.1);
+    border-radius: 10px;
   }
 
-  ::-webkit-scrollbar-thumb:horizontal {
+  .custom-scrollbar::-webkit-scrollbar-thumb:horizontal {
     background: rgba(133, 133, 133, 0.3);
     border-radius: 10px;
   }
 
-  ::-webkit-scrollbar-thumb:vertical {
+  .custom-scrollbar::-webkit-scrollbar-thumb:vertical {
     background: rgba(133, 133, 133, 0.3);
     border-radius: 10px;
   }
@@ -39,6 +52,18 @@
   animation: animatedgradient 6s ease infinite alternate;
 }
 
+.gradual-transparency {
+  mask-image: linear-gradient(to top, transparent 2%, rgb(255, 255, 255));
+}
+
+.contrast-text {
+  background: black;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  filter: sepia(5) saturate(100) invert(1) grayscale(1) contrast(9);
+}
+
 @keyframes animatedgradient {
   0% {
     background-position: 0% 50%;
@@ -49,34 +74,4 @@
   100% {
     background-position: 0% 50%;
   }
-}
-.embla {
-  width: 100%;
-  margin: auto;
-  --slide-height: 19rem;
-  --slide-spacing: 1rem;
-  --slide-size: 100%;
-}
-.embla__viewport {
-  overflow: hidden;
-}
-.embla__container {
-  backface-visibility: hidden;
-  display: flex;
-  touch-action: pan-y;
-  margin-left: calc(var(--slide-spacing) * -1);
-
-  counter-reset: slide;
-}
-.embla__slide {
-  flex: 0 0 var(--slide-size);
-  min-width: 0;
-  padding-left: var(--slide-spacing);
-}
-.embla__slide__img {
-  display: block;
-  aspect-ratio: 24/9;
-  width: 100%;
-  object-fit: cover;
-  user-select: none;
 }

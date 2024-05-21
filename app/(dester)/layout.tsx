@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import "../globals.css";
-import Navbar from "@/lib/components/Navbar";
-import Sidebar from "@/lib/components/Sidebar";
 import Background from "@/lib/components/Background";
+import Navigation from "@/lib/components/Navigation";
 
 export const metadata: Metadata = {
   title: "Dester Desktop App",
@@ -15,16 +14,11 @@ export default function AppLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <div className="h-full w-full relative">
+    <div className="h-screen w-screen relative">
       <Background />
-      <div className="flex h-full z-10 relative">
-        <Sidebar />
-        <div className="w-[calc(100%-68px)] h-screen">
-          <Navbar />
-          <div className="w-full h-[calc(100%-68px)] overflow-y-scroll rounded-lg pr-4">
-            {children}
-          </div>
-        </div>
+      <Navigation />
+      <div className="flex h-full relative w-full overflow-y-overlay">
+        {children}
       </div>
     </div>
   );
