@@ -1,7 +1,14 @@
 {
-  "name": "desktop-new",
+  "name": "dester-desktop",
   "version": "0.0.3-alpha",
   "private": true,
+  "author": "DesterLib",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DesterLib/Desktop.git"
+  },
+  "bugs": "https://github.com/DesterLib/Desktop/issues",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
