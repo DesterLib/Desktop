@@ -1,11 +1,11 @@
 [package]
-name = "Dester"
+name = "dester"
 version = "0.0.1"
 description = "Dester Desktop Client"
 authors = ["DesterLib"]
 license = ""
 repository = ""
-default-run = "app"
+default-run = "dester"
 edition = "2021"
 rust-version = "1.60"
 
