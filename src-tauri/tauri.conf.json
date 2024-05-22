@@ -7,8 +7,7 @@
     "distDir": "../out"
   },
   "package": {
-    "productName": "Dester",
-    "version": "0.0.0-alpha"
+    "productName": "Dester"
   },
   "tauri": {
     "allowlist": {

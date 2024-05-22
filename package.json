@@ -1,6 +1,5 @@
 {
   "name": "dester-desktop",
-  "version": "0.1.1",
   "private": true,
   "author": "DesterLib",
   "license": "MIT",
@@ -13,7 +12,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "v:major": "pnpm dlx tauri-version major --no-git",
+    "v:minor": "pnpm dlx tauri-version patch --no-git",
+    "v:patch": "pnpm dlx tauri-version patch --no-git"
   },
   "dependencies": {
     "@headlessui/react": "^2.0.3",
