@@ -3,21 +3,12 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { EffectFade, Navigation } from "swiper/modules";
-import { extractColors } from "extract-colors";
-import useBackgroundStore from "@/stores/backgroundStore";
 import "swiper/css";
 import "swiper/css/effect-fade";
 import "swiper/css/navigation";
 import Button from "./Button";
 
 const SwiperSlider = ({ data, options }: any) => {
-  // const handleGetColors = (currentImagePosition: number) => {
-  //   extractColors(data[currentImagePosition].wallpaper)
-  //     .then((res) => {
-  //       useBackgroundStore.setState({ colors: res });
-  //     })
-  //     .catch(console.error);
-  // };
   return (
     <Swiper
       spaceBetween={50}
@@ -29,11 +20,6 @@ const SwiperSlider = ({ data, options }: any) => {
     >
       {data.map((item: any, index: number) => (
         <SwiperSlide className="relative !h-[600px]" key={index}>
-          {/* <img
-            className="aspect-video md:aspect-[21/9] object-cover"
-            src={item.wallpaper}
-            alt={`Slide ${index + 1}`}
-          /> */}
           {index === 2 && (
             <iframe
               className="object-cover w-[100vw] h-[100vh] absolute top-[50%] left-[50%] -z-10 -translate-x-[50%] -translate-y-[50%]"

@@ -1,5 +1,4 @@
 import database from "@/db/db";
-import Card from "@/lib/components/Card";
 import MainSlider from "@/lib/components/MainSlider";
 import Slider from "@/lib/components/Slider";
 

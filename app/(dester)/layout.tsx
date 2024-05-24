@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import "../globals.css";
-import Background from "@/lib/components/Background";
 import Navigation from "@/lib/components/Navigation";
 
 export const metadata: Metadata = {
@@ -15,7 +14,6 @@ export default function AppLayout({
 }>) {
   return (
     <div className="h-screen w-screen relative">
-      <Background />
       <Navigation />
       <div className="flex h-full relative w-full overflow-y-overlay">
         {children}
