@@ -1,11 +1,11 @@
 import React from "react";
 
-const Logo = () => {
+const Logo = ({ width = "30", height = "30" }) => {
   return (
     <svg
       className="pointer-events-none"
-      width="30"
-      height="30"
+      width={width}
+      height={height}
       viewBox="0 0 25 24"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
