@@ -10,15 +10,17 @@ const chip = cva(
     "font-medium",
     "uppercase",
     "backdrop-blur-lg",
+    "transition-colors",
   ],
   {
     variants: {
       variant: {
         neutral: [
           "bg-zinc-500/60",
+          "backdrop-blur-sm",
           "text-gray-200",
           "border",
-          "border-zinc-400/60",
+          "border-zinc-400/80",
         ],
         secondary: [
           "text-white",

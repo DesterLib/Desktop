@@ -1,3 +1,4 @@
+import React, { useState } from "react";
 import {
   Button,
   Menu,
@@ -5,6 +6,7 @@ import {
   MenuItem,
   MenuItems,
 } from "@headlessui/react";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   ArrowLeftStartOnRectangleIcon,
   Cog8ToothIcon,
@@ -13,8 +15,6 @@ import {
   UserIcon,
   UserGroupIcon,
 } from "@heroicons/react/24/solid";
-import { motion, AnimatePresence } from "framer-motion";
-import { useState } from "react";
 
 const SubMenu = () => {
   const [showMenu, setShowMenu] = useState(false);

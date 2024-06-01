@@ -7,7 +7,7 @@ import Link from "next/link";
 const RouterInput = () => {
   const [url, setUrl] = useState("/");
   return (
-    <div className="flex fixed bottom-2 right-2 w-fit z-[1000] ring ring-blue-500 rounded-lg">
+    <div className="flex fixed bottom-2 right-2 w-fit z-[1000] ring ring-blue-500 rounded-lg overflow-hidden">
       <Input
         className="w-[200px] p-2 rounded-l-lg text-black"
         name="full_name"

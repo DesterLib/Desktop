@@ -8,7 +8,7 @@ import SliderControls from "./SliderControls";
 
 const Slider = ({ title, data, gradiant }: any) => {
   return (
-    <section className="w-full space-y-4 relative">
+    <section className="w-full space-y-4 relative z-0">
       <div
         className={`text-2xl px-16 font-semibold ${
           gradiant
