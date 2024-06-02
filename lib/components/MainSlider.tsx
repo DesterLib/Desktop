@@ -9,12 +9,12 @@ import "swiper/css/navigation";
 import Button from "./Button";
 
 const MainSlider = ({ data }: any) => {
-  const [images, setImages] = useState({});
+  const [images, setImages] = useState<any>({});
   useEffect(() => {
     const fetchImages = async () => {
-      const imagePromises = data.map(async (item) => {
+      const imagePromises = data.map(async (item: any) => {
         const response = await fetch(
-          `https://api.themoviedb.org/3/tv/${item.id}/images?api_key=${process.env.NEXT_PUBLIC_TMDB_API_KEY}`
+          `https://api.themoviedb.org/3/movie/${item.id}/images?api_key=${process.env.NEXT_PUBLIC_TMDB_API_KEY}`
         );
         const json = await response.json();
         return { id: item.id, filePath: json.logos[0]?.file_path || "" };
@@ -28,7 +28,6 @@ const MainSlider = ({ data }: any) => {
 
       setImages(imagesMap);
     };
-
     fetchImages();
   }, [data]);
   return (
@@ -48,12 +47,14 @@ const MainSlider = ({ data }: any) => {
               alt={`Slide ${index + 1}`}
             />
           </div>
-          <div className="absolute bottom-0 left-0 w-full h-full flex flex-col justify-end space-y-2 p-16 bg-gradient-to-t from-[#0E0E0E] via-[#0e0e0ed0] to-transparent">
-            <img
-              className="w-[200px] object-contain"
-              src={`https://image.tmdb.org/t/p/w1280${images[item.id]}`}
-              alt=""
-            />
+          <div className="absolute bottom-0 left-0 w-full h-full flex flex-col justify-end space-y-4 p-16 bg-gradient-to-t from-[#0E0E0E] via-[#0e0e0ed0] to-transparent">
+            {typeof images[item.id] === "string" && (
+              <img
+                className="w-[200px] object-contain"
+                src={`https://image.tmdb.org/t/p/w1280${images[item.id]}`}
+                alt=""
+              />
+            )}
             <div className="text-white/60">Sci-Fi, Animation</div>
             <div className="line-clamp-2 max-w-[600px]">{item.overview}</div>
             <div className="flex space-x-4">

@@ -6,7 +6,7 @@ import { Navigation } from "swiper/modules";
 import Card from "./Card";
 import SliderControls from "./SliderControls";
 
-const Slider = ({ title, data, gradiant }: any) => {
+const Slider = ({ title, data, gradiant, type }: any) => {
   return (
     <section className="w-full space-y-4 relative z-0">
       <div
@@ -38,7 +38,7 @@ const Slider = ({ title, data, gradiant }: any) => {
       >
         {data.map((item: any, index: number) => (
           <SwiperSlide key={index}>
-            <Card item={item} />
+            <Card item={item} type={type} />
           </SwiperSlide>
         ))}
         <SliderControls />

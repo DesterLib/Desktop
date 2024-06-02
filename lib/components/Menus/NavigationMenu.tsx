@@ -52,7 +52,6 @@ const SubMenu = () => {
               opacity: 0,
               height: 0,
             }}
-            transition={{ type: "spring", bounce: 0.2, duration: 0.6 }}
           >
             <MenuItem>
               <button className="group flex w-full items-center gap-2 rounded-lg py-1.5 px-1.5 data-[focus]:bg-white/10">

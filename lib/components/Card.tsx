@@ -4,7 +4,7 @@ import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
 import { motion, AnimatePresence } from "framer-motion";
 import { EllipsisHorizontalIcon } from "@heroicons/react/24/solid";
 
-const Card = ({ item }: any) => {
+const Card = ({ item, type = "movie" }: any) => {
   return (
     <div className="w-full space-y-2 group">
       <div className="rounded-xl aspect-video overflow-hidden relative">
@@ -13,7 +13,12 @@ const Card = ({ item }: any) => {
           src={"https://image.tmdb.org/t/p/w1280" + item.backdrop_path}
           alt=""
         />
-        <Chip className="absolute top-2 left-2">{item.vote_average}</Chip>
+        {type === "tv" && item.number_of_seasons !== 0 && (
+          <Chip className="absolute top-2 left-2">
+            {item.number_of_seasons}{" "}
+            {item.number_of_seasons === 1 ? "Season" : "Seasons"}
+          </Chip>
+        )}
         <div className="absolute top-0 left-0 w-full h-full border-2 rounded-xl border-white/10 transition-colors"></div>
         <Menu>
           {({ open }) => (
@@ -50,9 +55,13 @@ const Card = ({ item }: any) => {
         </Menu>
       </div>
       <div>
-        <div className="truncate">{item.original_name}</div>
+        <div className="truncate">
+          {type === "movie" ? item.title : item.name}
+        </div>
         <div className="text-white/60 text-sm">
-          {item.first_air_date.slice(0, 4)}
+          {type === "movie"
+            ? item.release_date.slice(0, 4)
+            : item.first_air_date.slice(0, 4)}
         </div>
       </div>
     </div>
