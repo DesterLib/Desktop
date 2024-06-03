@@ -113,8 +113,8 @@ const Navigation = () => {
             <div className="flex">
               <motion.div
                 variants={{
-                  open: { width: "400px", opacity: 1 },
-                  close: { width: 0, opacity: 0 },
+                  open: { width: "400px", opacity: 1, pointerEvents: "auto" },
+                  close: { width: 0, opacity: 0, pointerEvents: "none" },
                 }}
                 animate={isSearch ? "open" : "close"}
               >

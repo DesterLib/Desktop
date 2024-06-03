@@ -6,7 +6,7 @@ import { EllipsisHorizontalIcon } from "@heroicons/react/24/solid";
 
 const Card = ({ item, type = "movie" }: any) => {
   return (
-    <div className="w-full space-y-2 group">
+    <div className="w-full space-y-2 group hover:cursor-pointer">
       <div className="rounded-xl aspect-video overflow-hidden relative">
         <img
           className="object-cover h-full w-full group-hover:opacity-50 transition-opacity"
@@ -19,7 +19,7 @@ const Card = ({ item, type = "movie" }: any) => {
             {item.number_of_seasons === 1 ? "Season" : "Seasons"}
           </Chip>
         )}
-        <div className="absolute top-0 left-0 w-full h-full border-2 rounded-xl border-white/10 transition-colors"></div>
+        <div className="absolute top-0 left-0 w-full h-full border rounded-xl border-zinc-400/20 transition-colors"></div>
         <Menu>
           {({ open }) => (
             <>

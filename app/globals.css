@@ -64,6 +64,27 @@
   filter: sepia(5) saturate(100) invert(1) grayscale(1) contrast(9);
 }
 
+.loader {
+  width: 50px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  padding: 3px;
+  background: radial-gradient(farthest-side, #ffffff 95%, #0000) 50% 0/12px 12px
+      no-repeat,
+    radial-gradient(
+        farthest-side,
+        #0000 calc(100% - 5px),
+        #10b981 calc(100% - 4px)
+      )
+      content-box;
+  animation: l6 2s infinite;
+}
+@keyframes l6 {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
 @keyframes animatedgradient {
   0% {
     background-position: 0% 50%;
