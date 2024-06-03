@@ -8,12 +8,12 @@ const app = express();
 const port = 3003;
 const CACHE_DURATION = 60 * 60 * 1000;
 
-// Manually define __dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const MOVIES_CACHE_FILE = path.resolve(__dirname, "movies.json");
 const TV_CACHE_FILE = path.resolve(__dirname, "tv.json");
+const COLLECTIONS_DATA = path.resolve(__dirname, "collections.json");
 
 dotenv.config({ path: path.resolve(__dirname, "../.env.local") });
 
@@ -102,6 +102,19 @@ app.get("/tv", async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 });
+
+app.get("/collections", async (req, res) => {
+  try {
+    const data = fs.readFileSync(COLLECTIONS_DATA, "utf8");
+    res.json(JSON.parse(data));
+  } catch (error) {
+    console.error("Error reading collections data:", error);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+app.keepAliveTimeout = 120 * 1000;
+app.headersTimeout = 125 * 1000;
 
 app.listen(port, () => {
   console.log(`Tempserver is running on ${port}`);

@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import Navigation from "@/lib/components/Navigation";
-import "../globals.css";
 import RouterInput from "@/lib/dev-components/Router";
+import "../globals.css";
+import "swiper/css";
+import "swiper/css/navigation";
 
 export const metadata: Metadata = {
   title: "Dester Desktop App",

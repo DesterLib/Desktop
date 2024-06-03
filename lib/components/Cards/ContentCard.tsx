@@ -1,10 +1,10 @@
 import React from "react";
-import Chip from "./Chip";
+import Chip from "../Chip";
 import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
 import { motion, AnimatePresence } from "framer-motion";
 import { EllipsisHorizontalIcon } from "@heroicons/react/24/solid";
 
-const Card = ({ item, type = "movie" }: any) => {
+const ContentCard = ({ item, type = "movie" }: any) => {
   return (
     <div className="w-full space-y-2 group hover:cursor-pointer">
       <div className="rounded-xl aspect-video overflow-hidden relative">
@@ -68,4 +68,4 @@ const Card = ({ item, type = "movie" }: any) => {
   );
 };
 
-export default Card;
+export default ContentCard;

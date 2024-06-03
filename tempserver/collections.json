@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Netflix",
+    "count": 10,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1597px-Netflix_2015_logo.svg.png?20190206123158"
+  },
+  {
+    "id": 2,
+    "title": "HBO",
+    "count": 21,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png"
+  },
+  {
+    "id": 3,
+    "title": "Amazon Prime",
+    "count": 8,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/640px-Amazon_Prime_Logo.svg.png"
+  },
+  {
+    "id": 4,
+    "title": "Crunchyroll",
+    "count": 10,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crunchyroll_Logo.svg/502px-Crunchyroll_Logo.svg.png?20160811142222"
+  }
+]

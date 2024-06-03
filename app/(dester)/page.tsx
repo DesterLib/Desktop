@@ -2,7 +2,13 @@ import MainSlider from "@/lib/components/MainSlider";
 import Slider from "@/lib/components/Slider";
 
 async function getData(type: "movies" | "tv") {
-  const res = await fetch(`http://localhost:3003/${type}`);
+  const res = await fetch(`http://localhost:3003/${type}`, {
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    cache: "no-store",
+  });
   if (!res.ok) {
     throw new Error("Failed to fetch data");
   }
@@ -10,7 +16,7 @@ async function getData(type: "movies" | "tv") {
   return data;
 }
 
-const Home = async () => {
+const HomePage = async () => {
   const moviesData = await getData("movies");
   const tvData = await getData("tv");
 
@@ -34,4 +40,4 @@ const Home = async () => {
   );
 };
 
-export default Home;
+export default HomePage;
