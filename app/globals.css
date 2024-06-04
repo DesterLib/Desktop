@@ -23,6 +23,12 @@
     user-select: none;
   }
 
+  img {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+  }
+
   ::-webkit-scrollbar {
     display: none;
   }
@@ -50,18 +56,6 @@
   -webkit-animation: animatedgradient 6s ease infinite alternate;
   -moz-animation: animatedgradient 6s ease infinite alternate;
   animation: animatedgradient 6s ease infinite alternate;
-}
-
-.gradual-transparency {
-  mask-image: linear-gradient(to top, transparent 2%, rgb(255, 255, 255));
-}
-
-.contrast-text {
-  background: black;
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  filter: sepia(5) saturate(100) invert(1) grayscale(1) contrast(9);
 }
 
 .loader {

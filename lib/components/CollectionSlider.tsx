@@ -8,9 +8,9 @@ import CollectionCard from "./Cards/CollectionCard";
 
 const CollectionSlider = ({ title, data, gradiant, type }: any) => {
   return (
-    <section className="w-full space-y-4 relative z-0">
+    <section className="w-full space-y-2 relative z-0">
       <div
-        className={`text-4xl px-16 font-semibold ${
+        className={`text-4xl/normal px-16 font-semibold ${
           gradiant
             ? "bg-gradient-to-r from-blue-400 via-indigo-400 to-white text-transparent bg-clip-text animate-gradient"
             : "text-white"
@@ -19,7 +19,7 @@ const CollectionSlider = ({ title, data, gradiant, type }: any) => {
         {title}
       </div>
       <Swiper
-        className="!rounded-xl !px-16 w-full group/slider"
+        className="!rounded-xl !px-16 w-full"
         breakpoints={{
           320: {
             slidesPerView: 2,
