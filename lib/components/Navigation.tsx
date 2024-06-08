@@ -6,7 +6,6 @@ import { useRouter } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
 import NavigationMenu from "./Menus/NavigationMenu";
 import Logo from "./Logo";
-import { Button, Input } from "@headlessui/react";
 import { MagnifyingGlassIcon, XMarkIcon } from "@heroicons/react/24/solid";
 import useAppStore from "../stores/appStore";
 
@@ -100,7 +99,7 @@ const Navigation = () => {
           >
             <AnimatePresence>
               <motion.div
-                className="flex"
+                className="flex space-x-2"
                 variants={{
                   show: { width: "auto", opacity: 1 },
                   hidden: { width: 0, opacity: 0 },

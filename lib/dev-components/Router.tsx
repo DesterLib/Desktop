@@ -13,7 +13,7 @@ const RouterInput = () => {
         name="full_name"
         type="text"
         defaultValue="/"
-        onInput={(e) => setUrl(e.target.value)}
+        onInput={(e) => setUrl((e.target as HTMLInputElement).value)}
       />
       <Link href={url} className="py-2 px-4 rounded-r-lg bg-blue-500">
         Go

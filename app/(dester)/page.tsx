@@ -1,24 +1,10 @@
 import MainSlider from "@/lib/components/MainSlider";
 import Slider from "@/lib/components/Slider";
-
-async function getData(type: "movies" | "tv") {
-  const res = await fetch(`http://localhost:3003/${type}`, {
-    method: "GET",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    cache: "no-store",
-  });
-  if (!res.ok) {
-    throw new Error("Failed to fetch data");
-  }
-  const data = await res.json();
-  return data;
-}
+import getItemData from "@/lib/utils/getItemData";
 
 const HomePage = async () => {
-  const moviesData = await getData("movies");
-  const tvData = await getData("tv");
+  const moviesData = await getItemData("movies");
+  const tvData = await getItemData("tv");
 
   return (
     <main className="w-full overflow-y-auto overscroll-none">

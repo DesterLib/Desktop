@@ -1,35 +1,11 @@
 import CollectionSlider from "@/lib/components/CollectionSlider";
 import MainSlider from "@/lib/components/MainSlider";
-
-async function getData() {
-  const res = await fetch(`http://localhost:3003/collections`, {
-    cache: "no-store",
-  });
-  if (!res.ok) {
-    throw new Error("Failed to fetch data");
-  }
-  const data = await res.json();
-  return data;
-}
-
-async function getDataMT(type: "movies" | "tv") {
-  const res = await fetch(`http://localhost:3003/${type}`, {
-    method: "GET",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    cache: "no-store",
-  });
-  if (!res.ok) {
-    throw new Error("Failed to fetch data");
-  }
-  const data = await res.json();
-  return data;
-}
+import getCollectionData from "@/lib/utils/getCollectionData";
+import getItemData from "@/lib/utils/getItemData";
 
 const BrowsePage = async () => {
-  const collectionsData = await getData();
-  const moviesData = await getDataMT("movies");
+  const collectionsData = await getCollectionData();
+  const moviesData = await getItemData("movies");
 
   return (
     <main className="w-full overflow-y-auto overscroll-none">

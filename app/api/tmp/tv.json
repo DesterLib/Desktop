@@ -70,7 +70,7 @@
     "original_language": "en",
     "original_name": "Hazbin Hotel",
     "overview": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
-    "popularity": 196.318,
+    "popularity": 202.577,
     "poster_path": "/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
     "production_companies": [
       {
@@ -130,8 +130,8 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.981,
-    "vote_count": 935
+    "vote_average": 8.977,
+    "vote_count": 940
   },
   {
     "adult": false,
@@ -200,7 +200,7 @@
     "original_language": "en",
     "original_name": "Breaking Bad",
     "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-    "popularity": 675.093,
+    "popularity": 542.796,
     "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
     "production_companies": [
       {
@@ -310,8 +310,8 @@
     "status": "Ended",
     "tagline": "Change the equation.",
     "type": "Scripted",
-    "vote_average": 8.909,
-    "vote_count": 13622
+    "vote_average": 8.908,
+    "vote_count": 13645
   },
   {
     "adult": false,
@@ -365,7 +365,7 @@
       "id": 3246870,
       "overview": "Perilously close to war, the leaders of Piltover and Zaun reach an ultimatum. But a fateful standoff changes both cities forever.",
       "name": "The Monster You Created",
-      "vote_average": 8.727,
+      "vote_average": 8.7,
       "vote_count": 44,
       "air_date": "2021-11-20",
       "episode_number": 9,
@@ -394,7 +394,7 @@
     "original_language": "en",
     "original_name": "Arcane",
     "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
-    "popularity": 134.502,
+    "popularity": 157.613,
     "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
     "production_companies": [
       {
@@ -452,8 +452,8 @@
     "status": "Returning Series",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.7,
-    "vote_count": 3774
+    "vote_average": 8.748,
+    "vote_count": 3786
   },
   {
     "adult": false,
@@ -483,7 +483,7 @@
     "languages": [
       "ja"
     ],
-    "last_air_date": "2024-05-26",
+    "last_air_date": "2024-06-02",
     "last_episode_to_air": {
       "id": 5343000,
       "overview": "Bonney witnesses her father Bartholomew Kuma’s painful memories. Meanwhile at the lab, Shaka notices that their communications and surveillance cameras are being cut off by somebody.",
@@ -510,7 +510,7 @@
       "episode_number": 1108,
       "episode_type": "standard",
       "production_code": "",
-      "runtime": null,
+      "runtime": 24,
       "season_number": 22,
       "show_id": 37854,
       "still_path": "/c9V8mICeFKgYGcM8XWKcdrkqZtq.jpg"
@@ -523,7 +523,7 @@
         "origin_country": "JP"
       }
     ],
-    "number_of_episodes": 1109,
+    "number_of_episodes": 1110,
     "number_of_seasons": 22,
     "origin_country": [
       "JP"
@@ -531,7 +531,7 @@
     "original_language": "ja",
     "original_name": "ワンピース",
     "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "popularity": 166.817,
+    "popularity": 273.207,
     "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
     "production_companies": [
       {
@@ -814,7 +814,7 @@
     "tagline": "Set sail for One Piece!",
     "type": "Scripted",
     "vote_average": 8.726,
-    "vote_count": 4467
+    "vote_count": 4477
   },
   {
     "adult": false,
@@ -895,7 +895,7 @@
     "original_language": "en",
     "original_name": "Avatar: The Last Airbender",
     "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
-    "popularity": 171.209,
+    "popularity": 223.525,
     "poster_path": "/9jUuxbMSp3cwC2DDrSAs2F43Ric.jpg",
     "production_companies": [
       {
@@ -999,235 +999,8 @@
     "status": "Ended",
     "tagline": "Water. Earth. Fire. Air.",
     "type": "Scripted",
-    "vote_average": 8.725,
-    "vote_count": 3937
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
-    "created_by": [],
-    "episode_run_time": [],
-    "first_air_date": "2024-03-20",
-    "genres": [
-      {
-        "id": 16,
-        "name": "Animation"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ],
-    "homepage": "https://www.disneyplus.com/series/x-men-97/vc1XIz90ZNH5",
-    "id": 138502,
-    "in_production": true,
-    "languages": [
-      "en"
-    ],
-    "last_air_date": "2024-05-15",
-    "last_episode_to_air": {
-      "id": 5195795,
-      "overview": "The X-Men's dream is put to the test as mutant-human relations reach a tipping point.",
-      "name": "Tolerance Is Extinction (3)",
-      "vote_average": 8.3,
-      "vote_count": 6,
-      "air_date": "2024-05-15",
-      "episode_number": 10,
-      "episode_type": "finale",
-      "production_code": "",
-      "runtime": 43,
-      "season_number": 1,
-      "show_id": 138502,
-      "still_path": "/uuhP8ILtwpIk4edTiZ9Tu6oGQQm.jpg"
-    },
-    "name": "X-Men '97",
-    "next_episode_to_air": null,
-    "networks": [
-      {
-        "id": 2739,
-        "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
-        "name": "Disney+",
-        "origin_country": ""
-      }
-    ],
-    "number_of_episodes": 10,
-    "number_of_seasons": 1,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "X-Men '97",
-    "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-    "popularity": 630.01,
-    "poster_path": "/2gxb0BtvqR9abbVgmF1SaW4j1bh.jpg",
-    "production_companies": [
-      {
-        "id": 420,
-        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-        "name": "Marvel Studios",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "seasons": [
-      {
-        "air_date": "2024-03-20",
-        "episode_count": 10,
-        "id": 219363,
-        "name": "Season 1",
-        "overview": "Picking up where 'X-Men' left off, the X-Men are in a period of transition, struggling with the loss of Professor X. And while their world is in a strained state of calm when it comes to mutant-human relations—everyone knows that's likely temporary.",
-        "poster_path": "/cVlBAB0nFEQxwuyn1mTfrGjqXuw.jpg",
-        "season_number": 1,
-        "vote_average": 8.4
-      }
-    ],
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Returning Series",
-    "tagline": "New episodes. New era.",
-    "type": "Scripted",
-    "vote_average": 8.709,
-    "vote_count": 333
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gst6mfntiGr2x4mez3ElnH25VIZ.jpg",
-    "created_by": [
-      {
-        "id": 1893575,
-        "credit_id": "655657990816c7011a0c5916",
-        "name": "Ha Byung-hoon",
-        "original_name": "Ha Byung-hoon",
-        "gender": 2,
-        "profile_path": "/cRw6npNuk6zmdA3knCF7a12sj4W.jpg"
-      }
-    ],
-    "episode_run_time": [
-      53
-    ],
-    "first_air_date": "2023-12-15",
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ],
-    "homepage": "https://www.tving.com/contents/P001748996?utm_source=Naver&utm_medium=Organic&utm_campaign=SERP",
-    "id": 218230,
-    "in_production": false,
-    "languages": [
-      "ko"
-    ],
-    "last_air_date": "2024-01-05",
-    "last_episode_to_air": {
-      "id": 4899130,
-      "overview": "Just one final bullet remains. Will Yee-jae be able to evade death and survive?",
-      "name": "Don't Go Looking For Death. Death Will Come Find You.",
-      "vote_average": 8,
-      "vote_count": 3,
-      "air_date": "2024-01-05",
-      "episode_number": 8,
-      "episode_type": "finale",
-      "production_code": "",
-      "runtime": 40,
-      "season_number": 1,
-      "show_id": 218230,
-      "still_path": "/89VeSJn2KwaFD6nfwGVMfFCX25N.jpg"
-    },
-    "name": "Death's Game",
-    "next_episode_to_air": null,
-    "networks": [
-      {
-        "id": 3897,
-        "logo_path": "/cfMtt9sNl2bDyHuoPSZouEqDB9N.png",
-        "name": "TVING",
-        "origin_country": "KR"
-      }
-    ],
-    "number_of_episodes": 8,
-    "number_of_seasons": 1,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "이재, 곧 죽습니다",
-    "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
-    "popularity": 93.18,
-    "poster_path": "/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg",
-    "production_companies": [
-      {
-        "id": 86981,
-        "logo_path": "/8FwCT7KohE031xFLBeRMZlbuzSr.png",
-        "name": "SLL",
-        "origin_country": "KR"
-      },
-      {
-        "id": 114516,
-        "logo_path": "/aLLFFBt7dC0lblRVjGy4IuMxrIA.png",
-        "name": "Saram Entertainment",
-        "origin_country": "KR"
-      },
-      {
-        "id": 119174,
-        "logo_path": "/hLiXjOBvOlEA0IdTveoR7MsZwbj.png",
-        "name": "Studio N",
-        "origin_country": "KR"
-      },
-      {
-        "id": 103323,
-        "logo_path": "/6erRU1smLcM353NKVldsYyAFh56.png",
-        "name": "Dexter Studios",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "seasons": [
-      {
-        "air_date": "2023-12-15",
-        "episode_count": 8,
-        "id": 324110,
-        "name": "Season 1",
-        "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
-        "poster_path": "/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg",
-        "season_number": 1,
-        "vote_average": 7.7
-      }
-    ],
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Ended",
-    "tagline": "I'm not gonna pay a lot for this after death and became reincarnate.",
-    "type": "Miniseries",
-    "vote_average": 8.701,
-    "vote_count": 261
+    "vote_average": 8.726,
+    "vote_count": 3943
   },
   {
     "adult": false,
@@ -1312,7 +1085,7 @@
     "original_language": "en",
     "original_name": "Rick and Morty",
     "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
-    "popularity": 872.327,
+    "popularity": 1165.983,
     "poster_path": "/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
     "production_companies": [
       {
@@ -1445,7 +1218,108 @@
     "tagline": "Science makes sense, family doesn't.",
     "type": "Scripted",
     "vote_average": 8.701,
-    "vote_count": 9433
+    "vote_count": 9446
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-03-20",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "https://www.disneyplus.com/series/x-men-97/vc1XIz90ZNH5",
+    "id": 138502,
+    "in_production": true,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2024-05-15",
+    "last_episode_to_air": {
+      "id": 5195795,
+      "overview": "The X-Men's dream is put to the test as mutant-human relations reach a tipping point.",
+      "name": "Tolerance Is Extinction (3)",
+      "vote_average": 8.3,
+      "vote_count": 6,
+      "air_date": "2024-05-15",
+      "episode_number": 10,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 43,
+      "season_number": 1,
+      "show_id": 138502,
+      "still_path": "/uuhP8ILtwpIk4edTiZ9Tu6oGQQm.jpg"
+    },
+    "name": "X-Men '97",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 2739,
+        "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+        "name": "Disney+",
+        "origin_country": ""
+      }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "X-Men '97",
+    "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+    "popularity": 927.507,
+    "poster_path": "/2gxb0BtvqR9abbVgmF1SaW4j1bh.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2024-03-20",
+        "episode_count": 10,
+        "id": 219363,
+        "name": "Season 1",
+        "overview": "Picking up where 'X-Men' left off, the X-Men are in a period of transition, struggling with the loss of Professor X. And while their world is in a strained state of calm when it comes to mutant-human relations—everyone knows that's likely temporary.",
+        "poster_path": "/cVlBAB0nFEQxwuyn1mTfrGjqXuw.jpg",
+        "season_number": 1,
+        "vote_average": 8.4
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "New episodes. New era.",
+    "type": "Scripted",
+    "vote_average": 8.698,
+    "vote_count": 336
   },
   {
     "adult": false,
@@ -1535,7 +1409,7 @@
     "original_language": "ja",
     "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
     "overview": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
-    "popularity": 261.531,
+    "popularity": 614.043,
     "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
     "production_companies": [
       {
@@ -1607,8 +1481,134 @@
     "status": "Ended",
     "tagline": "",
     "type": "Scripted",
-    "vote_average": 8.698,
-    "vote_count": 1939
+    "vote_average": 8.697,
+    "vote_count": 1943
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gst6mfntiGr2x4mez3ElnH25VIZ.jpg",
+    "created_by": [
+      {
+        "id": 1893575,
+        "credit_id": "655657990816c7011a0c5916",
+        "name": "Ha Byung-hoon",
+        "original_name": "Ha Byung-hoon",
+        "gender": 2,
+        "profile_path": "/cRw6npNuk6zmdA3knCF7a12sj4W.jpg"
+      }
+    ],
+    "episode_run_time": [
+      53
+    ],
+    "first_air_date": "2023-12-15",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "https://www.tving.com/contents/P001748996?utm_source=Naver&utm_medium=Organic&utm_campaign=SERP",
+    "id": 218230,
+    "in_production": false,
+    "languages": [
+      "ko"
+    ],
+    "last_air_date": "2024-01-05",
+    "last_episode_to_air": {
+      "id": 4899130,
+      "overview": "Just one final bullet remains. Will Yee-jae be able to evade death and survive?",
+      "name": "Don't Go Looking For Death. Death Will Come Find You.",
+      "vote_average": 8,
+      "vote_count": 3,
+      "air_date": "2024-01-05",
+      "episode_number": 8,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 40,
+      "season_number": 1,
+      "show_id": 218230,
+      "still_path": "/89VeSJn2KwaFD6nfwGVMfFCX25N.jpg"
+    },
+    "name": "Death's Game",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 3897,
+        "logo_path": "/cfMtt9sNl2bDyHuoPSZouEqDB9N.png",
+        "name": "TVING",
+        "origin_country": "KR"
+      }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "이재, 곧 죽습니다",
+    "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
+    "popularity": 160.927,
+    "poster_path": "/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg",
+    "production_companies": [
+      {
+        "id": 86981,
+        "logo_path": "/8FwCT7KohE031xFLBeRMZlbuzSr.png",
+        "name": "SLL",
+        "origin_country": "KR"
+      },
+      {
+        "id": 114516,
+        "logo_path": "/aLLFFBt7dC0lblRVjGy4IuMxrIA.png",
+        "name": "Saram Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 119174,
+        "logo_path": "/hLiXjOBvOlEA0IdTveoR7MsZwbj.png",
+        "name": "Studio N",
+        "origin_country": "KR"
+      },
+      {
+        "id": 103323,
+        "logo_path": "/6erRU1smLcM353NKVldsYyAFh56.png",
+        "name": "Dexter Studios",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2023-12-15",
+        "episode_count": 8,
+        "id": 324110,
+        "name": "Season 1",
+        "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
+        "poster_path": "/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg",
+        "season_number": 1,
+        "vote_average": 7.7
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "I'm not gonna pay a lot for this after death and became reincarnate.",
+    "type": "Miniseries",
+    "vote_average": 8.681,
+    "vote_count": 263
   },
   {
     "adult": false,
@@ -1678,7 +1678,7 @@
     "original_language": "en",
     "original_name": "Anne with an E",
     "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890’s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
-    "popularity": 236.307,
+    "popularity": 513.835,
     "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
     "production_companies": [
       {
@@ -1748,7 +1748,7 @@
     "tagline": "Welcome back to Green Gables.",
     "type": "Scripted",
     "vote_average": 8.679,
-    "vote_count": 4559
+    "vote_count": 4562
   },
   {
     "adult": false,
@@ -1778,13 +1778,13 @@
     "languages": [
       "ja"
     ],
-    "last_air_date": "2024-05-26",
+    "last_air_date": "2024-06-02",
     "last_episode_to_air": {
       "id": 5337551,
       "overview": "",
       "name": "To Bring a Smile to One's Face",
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 7,
+      "vote_count": 1,
       "air_date": "2024-06-02",
       "episode_number": 4,
       "episode_type": "standard",
@@ -1808,7 +1808,7 @@
       "runtime": null,
       "season_number": 5,
       "show_id": 85937,
-      "still_path": null
+      "still_path": "/iiKJxsJOT69R86Y5QFtUUQmeha.jpg"
     },
     "networks": [
       {
@@ -2012,8 +2012,8 @@
     "original_language": "ja",
     "original_name": "鬼滅の刃",
     "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
-    "popularity": 294.149,
-    "poster_path": "/8rWeMJTPMHnttbyU2em5kIGB1q7.jpg",
+    "popularity": 382.549,
+    "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
     "production_companies": [
       {
         "id": 5887,
@@ -2099,7 +2099,7 @@
         "overview": "",
         "poster_path": "/htuO1MgCSVfcLYwU3YVSaO2H9iv.jpg",
         "season_number": 5,
-        "vote_average": 8
+        "vote_average": 7.1
       }
     ],
     "spoken_languages": [
@@ -2113,7 +2113,7 @@
     "tagline": "",
     "type": "Scripted",
     "vote_average": 8.676,
-    "vote_count": 6071
+    "vote_count": 6079
   },
   {
     "adult": false,
@@ -2161,8 +2161,8 @@
       "id": 3641954,
       "overview": "Revelations. Regrets. RICO violations. Jimmy's worlds — and identities — converge in one final showdown.",
       "name": "Saul Gone",
-      "vote_average": 9.4,
-      "vote_count": 58,
+      "vote_average": 9.356,
+      "vote_count": 59,
       "air_date": "2022-08-15",
       "episode_number": 13,
       "episode_type": "finale",
@@ -2190,7 +2190,7 @@
     "original_language": "en",
     "original_name": "Better Call Saul",
     "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
-    "popularity": 531.415,
+    "popularity": 995.404,
     "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
     "production_companies": [
       {
@@ -2287,7 +2287,7 @@
         "overview": "Showdowns, dirty deeds and a flood of new clients: Jimmy's transformation comes full circle.",
         "poster_path": "/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
         "season_number": 6,
-        "vote_average": 8.8
+        "vote_average": 8.7
       }
     ],
     "spoken_languages": [
@@ -2311,7 +2311,7 @@
     "tagline": "Putting the \"criminal\" in \"criminal lawyer.\"",
     "type": "Scripted",
     "vote_average": 8.675,
-    "vote_count": 4900
+    "vote_count": 4907
   },
   {
     "adult": false,
@@ -2374,7 +2374,7 @@
     "original_language": "en",
     "original_name": "Chernobyl",
     "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
-    "popularity": 96.992,
+    "popularity": 114.294,
     "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
     "production_companies": [
       {
@@ -2428,8 +2428,8 @@
     "status": "Ended",
     "tagline": "What is the cost of lies?",
     "type": "Miniseries",
-    "vote_average": 8.667,
-    "vote_count": 5980
+    "vote_average": 8.668,
+    "vote_count": 5988
   },
   {
     "adult": false,
@@ -2513,7 +2513,7 @@
     "original_language": "en",
     "original_name": "The Owl House",
     "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
-    "popularity": 215.852,
+    "popularity": 320.767,
     "poster_path": "/zhdy3PcNVE15wj1wrxn45ARZBnx.jpg",
     "production_companies": [
       {
@@ -2602,8 +2602,8 @@
     "status": "Ended",
     "tagline": "Us weirdos have to stick together.",
     "type": "Scripted",
-    "vote_average": 8.664,
-    "vote_count": 1520
+    "vote_average": 8.666,
+    "vote_count": 1522
   },
   {
     "adult": false,
@@ -2677,7 +2677,7 @@
     "original_language": "ja",
     "original_name": "進撃の巨人",
     "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
-    "popularity": 207.528,
+    "popularity": 341.676,
     "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
     "production_companies": [
       {
@@ -2790,7 +2790,7 @@
         "overview": "The truth revealed through the memories of Grisha's journals shakes all of Eren's deepest beliefs. There is no rugged but free land beyond the walls. There is a whole other world, equally full of oppression and war. Suddenly, the ambitions that have animated the Survey Corps for generations seem small and naive. What is there left to fight for?",
         "poster_path": "/iUsrnXfubNwhM8FRNEmzXmLfxB2.jpg",
         "season_number": 4,
-        "vote_average": 8.4
+        "vote_average": 8.5
       }
     ],
     "spoken_languages": [
@@ -2804,7 +2804,143 @@
     "tagline": "",
     "type": "Scripted",
     "vote_average": 8.7,
-    "vote_count": 6092
+    "vote_count": 6102
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+    "created_by": [
+      {
+        "id": 1253794,
+        "credit_id": "58575af292514159410035a3",
+        "name": "Kim Eun-sook",
+        "original_name": "김은숙",
+        "gender": 1,
+        "profile_path": "/8GTTodrfCfLkPLJolU4sZV9HDK7.jpg"
+      },
+      {
+        "id": 1724565,
+        "credit_id": "58575ae5c3a3682f5805333e",
+        "name": "Lee Eung-bok",
+        "original_name": "이응복",
+        "gender": 2,
+        "profile_path": "/slabequzDMEC1Fq4V94xyxUnpib.jpg"
+      }
+    ],
+    "episode_run_time": [
+      77
+    ],
+    "first_air_date": "2016-12-02",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "http://program.tving.com/tvn/dokebi/",
+    "id": 67915,
+    "in_production": false,
+    "languages": [
+      "ko"
+    ],
+    "last_air_date": "2017-01-21",
+    "last_episode_to_air": {
+      "id": 1254293,
+      "overview": "Both Sunny and Eun Tak inadvertently hurt their partners, who must come to terms with their decisions.",
+      "name": "Goodbye and See You Again",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2017-01-21",
+      "episode_number": 16,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 74,
+      "season_number": 1,
+      "show_id": 67915,
+      "still_path": "/8l61HYXZYaL8ny7heALzz9OqVvL.jpg"
+    },
+    "name": "Goblin",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 866,
+        "logo_path": "/aRDq8zBrX3YLpHSfueNQBkNnn7b.png",
+        "name": "tvN",
+        "origin_country": "KR"
+      }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "쓸쓸하고 찬란하神-도깨비",
+    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+    "popularity": 197.431,
+    "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+    "production_companies": [
+      {
+        "id": 36220,
+        "logo_path": "/dl126JiEUyhdLOhoN6thM9vI26B.png",
+        "name": "Hwa&Dam Pictures",
+        "origin_country": "KR"
+      },
+      {
+        "id": 86418,
+        "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
+        "name": "Studio Dragon",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2017-01-14",
+        "episode_count": 3,
+        "id": 84007,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/52E7iAHYKGwXviZ9wRcZCulqxfv.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2016-12-03",
+        "episode_count": 16,
+        "id": 80305,
+        "name": "Season 1",
+        "overview": "",
+        "poster_path": "/2zAIcnj76IyVCIw15d4y68paQuw.jpg",
+        "season_number": 1,
+        "vote_average": 5
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "A mysterious romance between a goblin and a young human bride.",
+    "type": "Scripted",
+    "vote_average": 8.663,
+    "vote_count": 2661
   },
   {
     "adult": false,
@@ -2837,27 +2973,10 @@
     "id": 85077,
     "in_production": true,
     "languages": [
-      "en",
-      "es"
+      "en"
     ],
-    "last_air_date": "2023-02-07",
+    "last_air_date": "2024-06-06",
     "last_episode_to_air": {
-      "id": 4828945,
-      "overview": "An intoxicating dance leads Herod to put an end to John the Baptizer, but no one can stop what-or Who-he's ushered in.",
-      "name": "Promises",
-      "vote_average": 10,
-      "vote_count": 1,
-      "air_date": "2024-06-02",
-      "episode_number": 1,
-      "episode_type": "standard",
-      "production_code": "",
-      "runtime": 56,
-      "season_number": 4,
-      "show_id": 85077,
-      "still_path": "/eC8TSh6RYeyLsK46Io18mt5WxAG.jpg"
-    },
-    "name": "The Chosen",
-    "next_episode_to_air": {
       "id": 4828946,
       "overview": "Jesus founds his church on unholy ground and Simon goes public with Jesus' true identity, getting a new name in the process. But can the new \"Peter\" forgive old wrongs?",
       "name": "Confessions",
@@ -2871,6 +2990,22 @@
       "season_number": 4,
       "show_id": 85077,
       "still_path": "/kmo0nnMDlrROFZLXqvSzRxv1E0T.jpg"
+    },
+    "name": "The Chosen",
+    "next_episode_to_air": {
+      "id": 4828947,
+      "overview": "When Jesus heals a blind man on the Sabbath, religious leaders confront him, drawing a riotous crowd. Gaius defies a direct order leading Quintus to take matters—and someone’s life—into his own hands.",
+      "name": "Moon to Blood",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2024-06-09",
+      "episode_number": 3,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 58,
+      "season_number": 4,
+      "show_id": 85077,
+      "still_path": "/pDa77WHKOOHukEnnC0rV2jQfK2n.jpg"
     },
     "networks": [
       {
@@ -2894,7 +3029,7 @@
     "original_language": "en",
     "original_name": "The Chosen",
     "overview": "The life of Christ through the eyes of those who encountered him called The Chosen.",
-    "popularity": 588.868,
+    "popularity": 406.358,
     "poster_path": "/2pnZWHg9E34LLwLBLYUPLdZwer8.jpg",
     "production_companies": [
       {
@@ -2979,154 +3114,13 @@
         "english_name": "English",
         "iso_639_1": "en",
         "name": "English"
-      },
-      {
-        "english_name": "Spanish",
-        "iso_639_1": "es",
-        "name": "Español"
       }
     ],
     "status": "Returning Series",
     "tagline": "Rise up.",
     "type": "Scripted",
-    "vote_average": 8.663,
-    "vote_count": 300
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "created_by": [
-      {
-        "id": 1253794,
-        "credit_id": "58575af292514159410035a3",
-        "name": "Kim Eun-sook",
-        "original_name": "김은숙",
-        "gender": 1,
-        "profile_path": "/8GTTodrfCfLkPLJolU4sZV9HDK7.jpg"
-      },
-      {
-        "id": 1724565,
-        "credit_id": "58575ae5c3a3682f5805333e",
-        "name": "Lee Eung-bok",
-        "original_name": "Lee Eung-bok",
-        "gender": 2,
-        "profile_path": "/slabequzDMEC1Fq4V94xyxUnpib.jpg"
-      }
-    ],
-    "episode_run_time": [
-      77
-    ],
-    "first_air_date": "2016-12-02",
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      }
-    ],
-    "homepage": "http://program.tving.com/tvn/dokebi/",
-    "id": 67915,
-    "in_production": false,
-    "languages": [
-      "ko"
-    ],
-    "last_air_date": "2017-01-21",
-    "last_episode_to_air": {
-      "id": 1254293,
-      "overview": "Both Sunny and Eun Tak inadvertently hurt their partners, who must come to terms with their decisions.",
-      "name": "Goodbye and See You Again",
-      "vote_average": 0,
-      "vote_count": 0,
-      "air_date": "2017-01-21",
-      "episode_number": 16,
-      "episode_type": "finale",
-      "production_code": "",
-      "runtime": 74,
-      "season_number": 1,
-      "show_id": 67915,
-      "still_path": "/8l61HYXZYaL8ny7heALzz9OqVvL.jpg"
-    },
-    "name": "Goblin",
-    "next_episode_to_air": null,
-    "networks": [
-      {
-        "id": 866,
-        "logo_path": "/aRDq8zBrX3YLpHSfueNQBkNnn7b.png",
-        "name": "tvN",
-        "origin_country": "KR"
-      }
-    ],
-    "number_of_episodes": 16,
-    "number_of_seasons": 1,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "쓸쓸하고 찬란하神-도깨비",
-    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
-    "popularity": 96.024,
-    "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
-    "production_companies": [
-      {
-        "id": 36220,
-        "logo_path": "/dl126JiEUyhdLOhoN6thM9vI26B.png",
-        "name": "Hwa&Dam Pictures",
-        "origin_country": "KR"
-      },
-      {
-        "id": 86418,
-        "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
-        "name": "Studio Dragon",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "seasons": [
-      {
-        "air_date": "2017-01-14",
-        "episode_count": 3,
-        "id": 84007,
-        "name": "Specials",
-        "overview": "",
-        "poster_path": "/52E7iAHYKGwXviZ9wRcZCulqxfv.jpg",
-        "season_number": 0,
-        "vote_average": 0
-      },
-      {
-        "air_date": "2016-12-03",
-        "episode_count": 16,
-        "id": 80305,
-        "name": "Season 1",
-        "overview": "",
-        "poster_path": "/2zAIcnj76IyVCIw15d4y68paQuw.jpg",
-        "season_number": 1,
-        "vote_average": 5
-      }
-    ],
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Ended",
-    "tagline": "A mysterious romance between a goblin and a young human bride.",
-    "type": "Scripted",
-    "vote_average": 8.663,
-    "vote_count": 2657
+    "vote_average": 8.7,
+    "vote_count": 302
   },
   {
     "adult": false,
@@ -3203,7 +3197,7 @@
     "original_language": "ja",
     "original_name": "はじめの一歩",
     "overview": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
-    "popularity": 351.647,
+    "popularity": 501.392,
     "poster_path": "/i3U3J2MWovIBZBnZYYiOLBXqNJZ.jpg",
     "production_companies": [
       {
@@ -3277,8 +3271,8 @@
     "status": "Ended",
     "tagline": "The moment you back down is the moment you lose!",
     "type": "Scripted",
-    "vote_average": 8.663,
-    "vote_count": 988
+    "vote_average": 8.658,
+    "vote_count": 990
   },
   {
     "adult": false,
@@ -3344,7 +3338,7 @@
     "original_language": "en",
     "original_name": "INVINCIBLE",
     "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
-    "popularity": 254.937,
+    "popularity": 235.498,
     "poster_path": "/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg",
     "production_companies": [
       {
@@ -3424,8 +3418,8 @@
     "status": "Returning Series",
     "tagline": "Almost there.",
     "type": "Scripted",
-    "vote_average": 8.659,
-    "vote_count": 4267
+    "vote_average": 8.657,
+    "vote_count": 4276
   },
   {
     "adult": false,
@@ -3518,7 +3512,7 @@
     "original_language": "ko",
     "original_name": "환혼",
     "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
-    "popularity": 111.325,
+    "popularity": 230.576,
     "poster_path": "/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg",
     "production_companies": [
       {
@@ -3582,7 +3576,7 @@
     "status": "Ended",
     "tagline": "alchemyofsouls",
     "type": "Scripted",
-    "vote_average": 8.656,
-    "vote_count": 511
+    "vote_average": 8.654,
+    "vote_count": 512
   }
 ]
