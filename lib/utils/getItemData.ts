@@ -1,5 +1,5 @@
 const getItemData = async (type: "movies" | "tv") => {
-  const res = await fetch(`http://localhost:3000/api/${type}`, {
+  const res = await fetch(`http://localhost:3003/${type}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",

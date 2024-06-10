@@ -1,5 +1,5 @@
 const getCollectionData = async () => {
-  const res = await fetch(`http://localhost:3000/api/collections`, {
+  const res = await fetch(`http://localhost:3003/collections`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",

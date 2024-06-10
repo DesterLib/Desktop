@@ -1,12 +1,25 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import ContentCard from "./Cards/ContentCard";
 import SliderControls from "./SliderControls";
+import getItemData from "../utils/getItemData";
 
-const Slider = ({ title, data, gradiant, type }: any) => {
+const Slider = ({ title, gradiant, type }: any) => {
+  const [data, setData] = useState<any>([]);
+  useEffect(() => {
+    if (type === "movie") {
+      getItemData("movies").then(async (res) => {
+        setData(res);
+      });
+    } else {
+      getItemData("tv").then(async (res) => {
+        setData(res);
+      });
+    }
+  }, []);
   return (
     <section className="w-full space-y-2 relative z-0">
       <div

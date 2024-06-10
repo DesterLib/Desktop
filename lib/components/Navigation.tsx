@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 import { useRouter } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
@@ -15,51 +15,38 @@ const Search = ({ isSearch, setIsSearch }: any) => {
       <AnimatePresence>
         <motion.input
           variants={{
-            open: { width: "auto", opacity: 1 },
+            open: {
+              width: "auto",
+              opacity: 1,
+            },
             close: { width: 0, opacity: 0 },
           }}
           animate={isSearch ? "open" : "close"}
-          className="rounded-full bg-white/20"
+          className="rounded-full bg-white/20 indent-4"
         ></motion.input>
       </AnimatePresence>
-      <motion.button
+      <button
         onClick={() => setIsSearch(!isSearch)}
-        className="ml-2 pl-2 pr-4 py-2 flex items-center justify-center rounded-full hover:bg-white/20 active:bg-white active:text-black transition-colors overflow-hidden"
+        className="ml-2 pl-2 pr-4 py-2 flex items-center justify-center rounded-full hover:bg-white/20 transition-colors overflow-hidden w-28"
       >
-        <AnimatePresence initial={false}>
-          {isSearch ? (
-            <motion.span
-              key="close"
-              initial={{ opacity: 0, width: 0 }}
-              animate={{ opacity: 1, width: "fit-content" }}
-              exit={{ opacity: 0, width: 0 }}
-              transition={{ duration: 0.4 }}
-              className="flex space-x-2"
-            >
-              <XMarkIcon className="size-6 stroke-2" />
-              <span>Close</span>
-            </motion.span>
-          ) : (
-            <motion.span
-              key="search"
-              initial={{ opacity: 0, width: 0 }}
-              animate={{ opacity: 1, width: "auto" }}
-              exit={{ opacity: 0, width: 0 }}
-              transition={{ duration: 0.4 }}
-              className="flex space-x-2"
-            >
-              <MagnifyingGlassIcon className="size-6 stroke-2" />
-              <span>Search</span>
-            </motion.span>
-          )}
-        </AnimatePresence>
-      </motion.button>
+        {isSearch ? (
+          <span className="flex space-x-2">
+            <XMarkIcon className="size-6 stroke-2" />
+            <span>Close</span>
+          </span>
+        ) : (
+          <span className="flex space-x-2">
+            <MagnifyingGlassIcon className="size-6 stroke-2" />
+            <span>Search</span>
+          </span>
+        )}
+      </button>
     </>
   );
 };
 
 const Navigation = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
   const [isSearch, setIsSearch] = useState(false);
 
   const pathname = usePathname();
@@ -68,6 +55,12 @@ const Navigation = () => {
   const isNavActive = (route: string) => route === pathname;
 
   const { nav } = useAppStore();
+
+  useEffect(() => {
+    setTimeout(() => {
+      setIsOpen(true);
+    }, 400);
+  }, []);
   return (
     <div>
       <button
@@ -94,15 +87,19 @@ const Navigation = () => {
               scale: 0.4,
               x: "-80%",
             }}
-            transition={{ type: "spring", bounce: 0.2, duration: 0.6 }}
+            transition={{
+              type: "spring",
+              bounce: 0.2,
+              duration: 0.6,
+            }}
             className="flex top-2 left-0 right-0 mx-auto fixed w-fit z-40 bg-black/60 backdrop-blur-lg rounded-full p-2"
           >
             <AnimatePresence>
               <motion.div
                 className="flex space-x-2"
                 variants={{
-                  show: { width: "auto", opacity: 1 },
-                  hidden: { width: 0, opacity: 0 },
+                  show: { width: "auto", opacity: 1, pointerEvents: "auto" },
+                  hidden: { width: 0, opacity: 0, pointerEvents: "none" },
                 }}
                 animate={isSearch ? "hidden" : "show"}
               >
@@ -132,7 +129,6 @@ const Navigation = () => {
                 ))}
               </motion.div>
             </AnimatePresence>
-
             <Search isSearch={isSearch} setIsSearch={setIsSearch} />
           </motion.div>
         )}

@@ -1,12 +1,19 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import SliderControls from "./SliderControls";
 import CollectionCard from "./Cards/CollectionCard";
+import getCollectionData from "../utils/getCollectionData";
 
-const CollectionSlider = ({ title, data, gradiant, type }: any) => {
+const CollectionSlider = ({ title, gradiant, type }: any) => {
+  const [data, setData] = useState<any>([]);
+  useEffect(() => {
+    getCollectionData().then(async (res) => {
+      setData(res);
+    });
+  }, []);
   return (
     <section className="w-full space-y-2 relative z-0">
       <div
