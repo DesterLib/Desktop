@@ -1,0 +1,4011 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/9kyyQXy79YRdY5mhrYKyktbFMev.jpg",
+    "created_by": [
+      {
+        "id": 1754390,
+        "credit_id": "5db721ba27d9cc001813ccf5",
+        "name": "Vivienne Medrano",
+        "original_name": "Vivienne Medrano",
+        "gender": 1,
+        "profile_path": "/cRKe9eeqyQ7uwe11pyPPMhqZjYe.jpg"
+      }
+    ],
+    "episode_run_time": [
+      25
+    ],
+    "first_air_date": "2024-01-18",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "https://www.amazon.com/dp/B0CLMPQTJ2",
+    "id": 94954,
+    "in_production": true,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2024-02-01",
+    "last_episode_to_air": {
+      "id": 4768894,
+      "overview": "All bets are off as the confrontation between the legions of Heaven and Hell begins.",
+      "name": "The Show Must Go On",
+      "vote_average": 8.286,
+      "vote_count": 7,
+      "air_date": "2024-02-01",
+      "episode_number": 8,
+      "episode_type": "finale",
+      "production_code": "1BBHH08",
+      "runtime": 25,
+      "season_number": 1,
+      "show_id": 94954,
+      "still_path": "/mVa6wxS7I7097HyMi1FGe38XrOm.jpg"
+    },
+    "name": "Hazbin Hotel",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 1024,
+        "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+        "name": "Prime Video",
+        "origin_country": ""
+      }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hazbin Hotel",
+    "overview": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
+    "popularity": 195.995,
+    "poster_path": "/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+    "production_companies": [
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 139412,
+        "logo_path": "/4HQQR6ySkFByBmCHtZfYXktHkAY.png",
+        "name": "SpindleHorse Toons",
+        "origin_country": "US"
+      },
+      {
+        "id": 30452,
+        "logo_path": "/zmU1ElCS02iL5N7E5MuY4fV7bCX.png",
+        "name": "Bento Box Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2019-10-28",
+        "episode_count": 2,
+        "id": 199540,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/aYApV2vAn2bvY8HbkXHGbmG6FYS.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2024-01-18",
+        "episode_count": 8,
+        "id": 134875,
+        "name": "Season 1",
+        "overview": "",
+        "poster_path": "/u9zmPp8ouqyX2zwXkqM9JzJ4zCO.jpg",
+        "season_number": 1,
+        "vote_average": 8.7
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.973,
+    "vote_count": 941
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+    "created_by": [
+      {
+        "id": 66633,
+        "credit_id": "52542286760ee31328001a7b",
+        "name": "Vince Gilligan",
+        "original_name": "Vince Gilligan",
+        "gender": 2,
+        "profile_path": "/z3E0DhBg1V1PZVEtS9vfFPzOWYB.jpg"
+      }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2008-01-20",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "https://www.sonypictures.com/tv/breakingbad",
+    "id": 1396,
+    "in_production": false,
+    "languages": [
+      "en",
+      "de",
+      "es"
+    ],
+    "last_air_date": "2013-09-29",
+    "last_episode_to_air": {
+      "id": 62161,
+      "overview": "All bad things must come to an end.",
+      "name": "Felina",
+      "vote_average": 9.2,
+      "vote_count": 210,
+      "air_date": "2013-09-29",
+      "episode_number": 16,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 56,
+      "season_number": 5,
+      "show_id": 1396,
+      "still_path": "/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg"
+    },
+    "name": "Breaking Bad",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 174,
+        "logo_path": "/alqLicR1ZMHMaZGP3xRQxn9sq7p.png",
+        "name": "AMC",
+        "origin_country": "US"
+      }
+    ],
+    "number_of_episodes": 62,
+    "number_of_seasons": 5,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "popularity": 563.916,
+    "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "production_companies": [
+      {
+        "id": 11073,
+        "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+        "name": "Sony Pictures Television Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 33742,
+        "logo_path": null,
+        "name": "High Bridge Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2605,
+        "logo_path": null,
+        "name": "Gran Via Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2009-02-17",
+        "episode_count": 9,
+        "id": 3577,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/40dT79mDEZwXkQiZNBgSaydQFDP.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2008-01-20",
+        "episode_count": 7,
+        "id": 3572,
+        "name": "Season 1",
+        "overview": "High school chemistry teacher Walter White's life is suddenly transformed by a dire medical diagnosis. Street-savvy former student Jesse Pinkman \"teaches\" Walter a new trade.",
+        "poster_path": "/1BP4xYv9ZG4ZVHkL7ocOziBbSYH.jpg",
+        "season_number": 1,
+        "vote_average": 8.3
+      },
+      {
+        "air_date": "2009-03-08",
+        "episode_count": 13,
+        "id": 3573,
+        "name": "Season 2",
+        "overview": "Walt must deal with the chain reaction of his choice, as he and Jesse face new and severe consequences. When danger and suspicion around Walt escalate, he is pushed to new levels of desperation. Just how much higher will the stakes rise? How far is Walt willing to go to ensure his family's security? Will his grand plan spiral out of control?",
+        "poster_path": "/e3oGYpoTUhOFK0BJfloru5ZmGV.jpg",
+        "season_number": 2,
+        "vote_average": 8.3
+      },
+      {
+        "air_date": "2010-03-21",
+        "episode_count": 13,
+        "id": 3575,
+        "name": "Season 3",
+        "overview": "Walt continues to battle dueling identities: a desperate husband and father trying to provide for his family, and a newly appointed key player in the Albuquerque drug trade. As the danger around him escalates, Walt is now entrenched in the complex worlds of an angst-ridden family on the verge of dissolution, and the ruthless and unrelenting drug cartel.",
+        "poster_path": "/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+        "season_number": 3,
+        "vote_average": 8.3
+      },
+      {
+        "air_date": "2011-07-17",
+        "episode_count": 13,
+        "id": 3576,
+        "name": "Season 4",
+        "overview": "Walt and Jesse must cope with the fallout of their previous actions, both personally and professionally. Tension mounts as Walt faces a true standoff with his employer, Gus, with neither side willing or able to back down. Walt must also adjust to a new relationship with Skyler, whom while still reconciling her relationship with Walt, is committed to properly laundering Walt’s money and ensuring her sister Marie and an ailing Hank are financially stable.",
+        "poster_path": "/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
+        "season_number": 4,
+        "vote_average": 8.5
+      },
+      {
+        "air_date": "2012-07-15",
+        "episode_count": 16,
+        "id": 3578,
+        "name": "Season 5",
+        "overview": "Walt is faced with the prospect of moving on in a world without his enemy. As the pressure of a criminal life starts to build, Skyler struggles to keep Walt’s terrible secrets. Facing resistance from sometime adversary and former Fring lieutenant Mike, Walt tries to keep his world from falling apart even as his DEA Agent brother in law, Hank, finds numerous leads that could blaze a path straight to Walt. ",
+        "poster_path": "/r3z70vunihrAkjILQKWHX0G2xzO.jpg",
+        "season_number": 5,
+        "vote_average": 8.9
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "Change the equation.",
+    "type": "Scripted",
+    "vote_average": 8.908,
+    "vote_count": 13654
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+    "created_by": [
+      {
+        "id": 2000007,
+        "credit_id": "62d5e468c92c5d004f0d1201",
+        "name": "Christian Linke",
+        "original_name": "Christian Linke",
+        "gender": 2,
+        "profile_path": "/yTYR4W1ORuSBoVPjnkGafNPKQDc.jpg"
+      },
+      {
+        "id": 3299121,
+        "credit_id": "62d5e46e72c13e062e7196aa",
+        "name": "Alex Yee",
+        "original_name": "Alex Yee",
+        "gender": 2,
+        "profile_path": "/nTAS8k6wyonvoiwSxYnDibvPA8Q.jpg"
+      }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-11-06",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      }
+    ],
+    "homepage": "https://arcane.com",
+    "id": 94605,
+    "in_production": true,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2021-11-20",
+    "last_episode_to_air": {
+      "id": 3246870,
+      "overview": "Perilously close to war, the leaders of Piltover and Zaun reach an ultimatum. But a fateful standoff changes both cities forever.",
+      "name": "The Monster You Created",
+      "vote_average": 8.7,
+      "vote_count": 44,
+      "air_date": "2021-11-20",
+      "episode_number": 9,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 42,
+      "season_number": 1,
+      "show_id": 94605,
+      "still_path": "/whYSErvez8kncpTmTRBsRd1Pg5i.jpg"
+    },
+    "name": "Arcane",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 213,
+        "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+        "name": "Netflix",
+        "origin_country": ""
+      }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 2,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Arcane",
+    "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+    "popularity": 115.157,
+    "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "production_companies": [
+      {
+        "id": 99496,
+        "logo_path": "/6WTCdsmIH6qR2zFVHlqjpIZhD5A.png",
+        "name": "Fortiche Production",
+        "origin_country": "FR"
+      },
+      {
+        "id": 124172,
+        "logo_path": "/sBlhznEktXKBqC87Bsfwpo1YbYR.png",
+        "name": "Riot Games",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2021-11-06",
+        "episode_count": 9,
+        "id": 134187,
+        "name": "Season 1",
+        "overview": "Two sisters. Two cities. One discovery that will change the world forever. In the cities of Piltover and Zaun, unrest stirs as inventors and thieves, politicians and crime lords chafe against the constraints of a society torn asunder.",
+        "poster_path": "/6FMWx79iAtZx8WHtOrRj0VlM8Tp.jpg",
+        "season_number": 1,
+        "vote_average": 8.5
+      },
+      {
+        "air_date": null,
+        "episode_count": 0,
+        "id": 351997,
+        "name": "Season 2",
+        "overview": "",
+        "poster_path": "/oTGEwkp1mPgWNMgVSM53TWfzgSc.jpg",
+        "season_number": 2,
+        "vote_average": 0
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.748,
+    "vote_count": 3792
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+      24
+    ],
+    "first_air_date": "1999-10-20",
+    "genres": [
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/onep",
+    "id": 37854,
+    "in_production": true,
+    "languages": [
+      "ja"
+    ],
+    "last_air_date": "2024-06-02",
+    "last_episode_to_air": {
+      "id": 5359051,
+      "overview": "The Seraphim suddenly start attacking the Straw Hats and the Vegapunk Satellites. They are not stopping even when the Satellites order them to. When Luffy and Zoro are cornered, Lucci and Kaku wake up and make them a surprising offer.",
+      "name": "Incomprehensible! The Seraphim's Rebellion!",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2024-06-09",
+      "episode_number": 1108,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 24,
+      "season_number": 22,
+      "show_id": 37854,
+      "still_path": "/c9V8mICeFKgYGcM8XWKcdrkqZtq.jpg"
+    },
+    "name": "One Piece",
+    "next_episode_to_air": {
+      "id": 5375657,
+      "overview": "",
+      "name": "Episode 1109",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2024-06-23",
+      "episode_number": 1109,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 24,
+      "season_number": 22,
+      "show_id": 37854,
+      "still_path": null
+    },
+    "networks": [
+      {
+        "id": 1,
+        "logo_path": "/4x4GsmRmSLLL0RVNKsoqAVH43tz.png",
+        "name": "Fuji TV",
+        "origin_country": "JP"
+      }
+    ],
+    "number_of_episodes": 1110,
+    "number_of_seasons": 22,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ワンピース",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "popularity": 229.494,
+    "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+    "production_companies": [
+      {
+        "id": 5542,
+        "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+        "name": "Toei Animation",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3341,
+        "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+        "name": "Fuji Television Network",
+        "origin_country": "JP"
+      },
+      {
+        "id": 130799,
+        "logo_path": null,
+        "name": "Avex Trax",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2918,
+        "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+        "name": "Shueisha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4720,
+        "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+        "name": "Asatsu-DK",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "1999-12-18",
+        "episode_count": 30,
+        "id": 49191,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/yVksPByqYBdtQ1PpjMmf7c3N6mp.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "1999-10-20",
+        "episode_count": 61,
+        "id": 49188,
+        "name": "East Blue",
+        "overview": "Monkey D. Luffy meets the Red Hair Pirates as a young boy living in East Blue, swearing becoming the next Pirate King. 10 years later, Luffy sets sail and experiences first adventures, recruiting the first members of the Straw Hat Pirates.",
+        "poster_path": "/9hW62RDq5Dno8vLABXscddjEq9M.jpg",
+        "season_number": 1,
+        "vote_average": 8.4
+      },
+      {
+        "air_date": null,
+        "episode_count": 16,
+        "id": 49189,
+        "name": "Whisky Peak & Little Garden",
+        "overview": "With a Log Pose now in hand, the Straw Hat Pirates are directed toward Whisky Peak, a town that welcomes pirates with open arms and treats them like celebrities. However, the townsfolk have a dark secret, and an even deeper mystery awaits.\n\nNow with Vivi in tow, the Straw Hat Pirates travel to the prehistoric island of Little Garden. There, they encounter two Giants, Dorry and Brogy, who have been dueling one another on the island for the past century. After befriending the giants, the crew are ambushed by new and familiar officers of Baroque Works.",
+        "poster_path": "/egsfvwuojnsNZRTrqLkWyw09p6f.jpg",
+        "season_number": 2,
+        "vote_average": 8.7
+      },
+      {
+        "air_date": null,
+        "episode_count": 14,
+        "id": 49190,
+        "name": "Drum Island",
+        "overview": "After Nami falls ill with an unknown disease, the Straw Hat Pirates travel to Drum Island in search of a doctor. The crew meets a bizarre talking reindeer named Tony Tony Chopper, who helps them fend off the country's former despot king Wapol after he returns to reclaim his throne.",
+        "poster_path": "/fyOt2eCAVAB5tUpf4oOrLqX1cYD.jpg",
+        "season_number": 3,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 39,
+        "id": 49183,
+        "name": "Alabasta",
+        "overview": "The Straw Hats, with Kureha's assistant Tony Tony Chopper, finally arrive at Arabasta, which is on the verge of civil war. Vivi must reach the rebels and tell them the real cause behind the conflict, but Crocodile, leader of Baroque Works and one of the Seven Warlords of the Sea, will not just stand by and watch. In the end, Baroque Works, marine forces, pirates, the royal guards, and the rebel army clash in a battle that will determine the fate of the country itself.",
+        "poster_path": "/psjQVMfKxjkiyH9fK9Byo9ynVy9.jpg",
+        "season_number": 4,
+        "vote_average": 8.9
+      },
+      {
+        "air_date": null,
+        "episode_count": 13,
+        "id": 49184,
+        "name": "Post-Alabasta, Goat Island & Ruluka Island",
+        "overview": "While on the run from some Marines, the crew stumble upon an island inhabited by a man named Zenny who lives with a herd of goats. The crew set out to him in his seemingly final days. After evading some Marines, the crew stop off in a small town with a huge tower, which is also being oppressed by the Mayor whose overtaxing the citizens. But a bigger concern is a nearby mist that prevents anyone who enters it from leaving.",
+        "poster_path": "/dJHWwdcNzsbBUAnXdNsrIAgkmiK.jpg",
+        "season_number": 5,
+        "vote_average": 8.8
+      },
+      {
+        "air_date": null,
+        "episode_count": 52,
+        "id": 49185,
+        "name": "Skypiea",
+        "overview": "The Straw Hats arrive on the Sky Island Skypiea and learn of its connections to Jaya and Mont Blanc Noland's tale of a lost city of gold. As the crew embarks in search of treasure, they become entangled in a three-way war between the native Skypieans, the vengeful Shandians, and the land's cruel \"god\", Enel.",
+        "poster_path": "/hYasiagbhomaEj0Vv1LMqewOuBE.jpg",
+        "season_number": 6,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 33,
+        "id": 49179,
+        "name": "Long Ring Long Land",
+        "overview": "The Straw Hats accidentally float down into the Marine base, G-8. Forced to abandon ship, the crew must make their way through the base to reclaim the Going Merry and avoid capture.\n\nThe crew manage to safely reach their next island, Long Ring Long Land. They meet a nomad who's been stuck on the island for a while and offer to help him. But before they can, they're challenged by a pirate who calls himself Foxy the Silver Fox in a game of \"Davy Back Fight\", where the losers can lose their crew members.\n\nOne night as the crew rest, a boy with a seahorse-shaped flute plays it near the ship. The next day the crew awaken with their memories of each other wiped out, except for Robin. It's up to her, who was the only one not affected, to get the crew's memories back and find out the cause of it.\n\nThe Straw Hat pirates later re-encounter Foxy, Porche, and Hamburg. This encounter leads to a fight, and also leads to the encounter with Aokiji.",
+        "poster_path": "/A2msjyMOBEdbSHjiPHWLZhKI5HS.jpg",
+        "season_number": 7,
+        "vote_average": 8.8
+      },
+      {
+        "air_date": null,
+        "episode_count": 35,
+        "id": 49192,
+        "name": "Water Seven",
+        "overview": "The Straw Hats arrive at the oceanic metropolis of Water 7 to find a shipwright who can repair the Going Merry, as well as potentially join their crew. They soon become targeted by the Franky Family, the city's underground gang, and become involved in a plot within the Galley-La Company. Between the disappearance of Robin and a schism that develops between Luffy and Usopp, the crew begins to fall apart.",
+        "poster_path": "/ww1JO056uv4KhDSycDTLkNRveIg.jpg",
+        "season_number": 8,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 73,
+        "id": 49180,
+        "name": "Enies Lobby",
+        "overview": "The Straw Hats, Sogeking, the Franky Family, and the shipwrights of the Galley-La Company arrive at Enies Lobby aboard the Rocketman to rescue Nico Robin and Franky. Standing in their way, however, are the forces of the World Government, including its deadly assassination unit, CP9. A massive battle ensues between the two sides when Luffy declares war against the World Government.",
+        "poster_path": "/7y6yoAIepNVrNTLMxgHEEgjEEge.jpg",
+        "season_number": 9,
+        "vote_average": 8.9
+      },
+      {
+        "air_date": null,
+        "episode_count": 45,
+        "id": 49181,
+        "name": "Thriller Bark",
+        "overview": "During their journey through the Florian Triangle, the Straw Hats arrive on a seemingly haunted island called Thriller Bark, where they encounter the Warlord Gecko Moria. Using his Devil Fruit abilities, Moria steals the Straw Hats' shadows. With the help of a mysterious talking skeleton named Brook, the crew must regain their shadows before sunrise in order to survive.",
+        "poster_path": "/gCWPlCfElGdGtl6xryoyXcadNd9.jpg",
+        "season_number": 10,
+        "vote_average": 8.6
+      },
+      {
+        "air_date": null,
+        "episode_count": 26,
+        "id": 49186,
+        "name": "Sabaody Archipelago",
+        "overview": "The Straw Hat Pirates arrive at the final island of the Grand Line's first half, Sabaody Archipelago. While searching for a means to pass under the Red Line into the New World, they come into conflict with a deadly slave trading ring that sells to the World Nobles. Luffy and Zoro are labelled as two of the Eleven Supernovas, rookies of significant bounties who have simultaneously arrived at the archipelago. A chain reaction of events engulfs the archipelago in chaos, and the Straw Hats are faced with their greatest challenge yet.",
+        "poster_path": "/kMvtZUg4jCZ4JzEqvOCjkiklQfF.jpg",
+        "season_number": 11,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 14,
+        "id": 49182,
+        "name": "Amazon Lily",
+        "overview": "After his defeat at the hands of Kuma at the Sabaody Archipelago, Luffy is sent flying and crash lands on Amazon Lily, an island exclusive to women that executes males on sight. As he tries to find a way off the island and back to his crew, Luffy makes unexpected friends and foes, while also learning of his brother's imminent peril.",
+        "poster_path": "/bVjlWX17j9t6XB3AZ3KOv7ya7g7.jpg",
+        "season_number": 12,
+        "vote_average": 8.7
+      },
+      {
+        "air_date": null,
+        "episode_count": 101,
+        "id": 49187,
+        "name": "Impel Down & Marineford",
+        "overview": "Luffy puts finding his crew on hold in favor of rescuing his brother Ace from the underwater prison Impel Down. With Boa Hancock's help, he manages to infiltrate the facility. However, fulfilling his objective and escaping the hellish prison might be easier said than done.\n\nHaving failed to reach Ace before he was transferred, Luffy and his companions escape from Impel Down and travel to Marineford, the base of Marine Headquarters. With the odds stacked high against him, the imminent threat of Whitebeard, and the ulterior motives of pirates that wish to overthrow the Emperor, Luffy struggles to hold his own in this titanic clash of powers.",
+        "poster_path": "/zcVNRh5sqdgSgoXm0Z2GlTxF6DN.jpg",
+        "season_number": 13,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 58,
+        "id": 49193,
+        "name": "Fishman Island",
+        "overview": "The Straw Hat Pirates finally arrive at Fishman Island. There, the crew learn the history of Fisher Tiger and the ongoing discrimination between humans and fishman, while the New Fishman Pirates plot to overtake Ryugu Kingdom and make fishman be recognized as the supreme race.",
+        "poster_path": "/wpVC1e0RVK2qRtZMFDYu1c6mHcy.jpg",
+        "season_number": 14,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 62,
+        "id": 49194,
+        "name": "Punk Hazard",
+        "overview": "Upon finally entering the New World, the Straw Hat Pirates immediately receive a distress call from residents of Punk Hazard, who state that a samurai is attacking them. Without hesitation, Luffy sets out to the blazing island, with Vice Admiral Smoker hot on his tail. On the supposedly death-ridden and empty island, the Straw Hats soon must contend with both the G-5 Marines, led by Vice Admiral Smoker, and the mad scientist Caesar Clown, whose deadly experiments must be stopped.",
+        "poster_path": "/slTtfpqvqelTNoRTxTuiSvqWoTU.jpg",
+        "season_number": 15,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 50,
+        "id": 49195,
+        "name": "Dressrosa",
+        "overview": "The Straw Hat Pirates and Trafalgar Law, together with Kin'emon, Momonosuke and the captured Caesar Clown, travel to Dressrosa with the goal of taking down the nation's king, Warlord of the Sea Donquixote Doflamingo. However, they soon set into motion a series of world-changing events, as their actions interact unexpectedly with those of larger forces at play.",
+        "poster_path": "/sDzpqSCuCyvKIcJADOhPD261maG.jpg",
+        "season_number": 16,
+        "vote_average": 9
+      },
+      {
+        "air_date": null,
+        "episode_count": 56,
+        "id": 63735,
+        "name": "Dressrosa (2)",
+        "overview": "A sequence of unexpected events shakes the world order, and Doflamingo proves to be a challenge that even some of the strongest warriors cannot overcome.",
+        "poster_path": "/nXyJ2Yor5VUX8Zpwf0eQbuDOsF0.jpg",
+        "season_number": 17,
+        "vote_average": 9
+      },
+      {
+        "air_date": "2016-07-12",
+        "episode_count": 55,
+        "id": 78873,
+        "name": "Zou",
+        "overview": "After defeating Doflamingo, the Straw Hats, Trafalgar Law, Kin'emon, and Kanjuro arrive on Zou, in order to reunite with Sanji and the others. However, they discover that Sanji has been swept up in a set of personal and political entanglements and that Zou has been subjected to a siege by Jack of the Beasts Pirates.",
+        "poster_path": "/wg7ngI5lw0u54xRY5FwmlvzS9cu.jpg",
+        "season_number": 18,
+        "vote_average": 9
+      },
+      {
+        "air_date": "2017-09-05",
+        "episode_count": 74,
+        "id": 91905,
+        "name": "Whole Cake Island",
+        "overview": "Luffy, Nami, Chopper, Brook, and the minks Pekoms, Pedro, and Carrot head to Whole Cake Island, where Big Mom of the Four Emperors resides. Nicknamed the Sanji Retrieval Team, the group seeks to rescue their crewmate Sanji from his arranged marriage with Charlotte Pudding, set up to finalize a political alliance between the Charlotte Family and the Vinsmoke Family. However, during their operation, they become involved in a plot to assassinate Big Mom herself.",
+        "poster_path": "/59G8pVHbFqSuAQAitdK9CKGAZXX.jpg",
+        "season_number": 19,
+        "vote_average": 8.9
+      },
+      {
+        "air_date": "2019-04-03",
+        "episode_count": 14,
+        "id": 121027,
+        "name": "Levely Arc",
+        "overview": "The Straw Hat Pirates' actions against the Big Mom Pirates are revealed to the world. Luffy's group is on its way to Wano Country while the Revolutionary Army prepares for their next move. Meanwhile, royalty across the globe gathers for the Levely, without knowing that a shadow-like figure is pulling the strings of the World.",
+        "poster_path": "/huF0TU9U8UIt2BaLGn6Ujbjikbg.jpg",
+        "season_number": 20,
+        "vote_average": 8.6
+      },
+      {
+        "air_date": "2019-07-09",
+        "episode_count": 197,
+        "id": 125830,
+        "name": "Wano Country Arc",
+        "overview": "The Ninja-Pirate-Mink-Samurai Alliance gather their forces in Wano Country and prepare for their inevitable clash against the Beasts Pirates. The history of Kozuki Oden and his ties to Wano Country, Whitebeard and Gol D. Roger are revealed, and the Alliance assaults Onigashima to take down the allied forces of Kaidou and Big Mom once and for all. The resulting battle, as well as the events during the recent Levely, cause the world to go through dramatic changes.",
+        "poster_path": "/awSahTRht2V11NKVp8KaMyd3z2v.jpg",
+        "season_number": 21,
+        "vote_average": 8.2
+      },
+      {
+        "air_date": null,
+        "episode_count": 22,
+        "id": 364569,
+        "name": "Egghead",
+        "overview": "The aftermaths of both the Levely and the Raid on Onigashima, as well as the erasure of the Lulusia Kingdom, cause major shifts across the world that could lead to global war. The Straw Hat Pirates, following their Log Pose, arrive at the mysterious, futuristic island Egghead where the super genius Dr. Vegapunk resides. However, after being tipped off about Vegapunk's research into the Void Century, the World Government decides to dispatch a CP0 team to assassinate Vegapunk. Betrayal and intrigue on all sides leads to a Marine siege on the island that will escalate into an incident that will shock the world.",
+        "poster_path": "/jwvpVSLsoo0he4TDV4RUXpEwFE2.jpg",
+        "season_number": 22,
+        "vote_average": 9.8
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "Set sail for One Piece!",
+    "type": "Scripted",
+    "vote_average": 8.727,
+    "vote_count": 4479
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+    "created_by": [
+      {
+        "id": 1190517,
+        "credit_id": "5253483c19c29579400de990",
+        "name": "Michael Dante DiMartino",
+        "original_name": "Michael Dante DiMartino",
+        "gender": 2,
+        "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+      },
+      {
+        "id": 1190518,
+        "credit_id": "5253483c19c29579400de996",
+        "name": "Bryan Konietzko",
+        "original_name": "Bryan Konietzko",
+        "gender": 2,
+        "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+      }
+    ],
+    "episode_run_time": [
+      25
+    ],
+    "first_air_date": "2005-02-21",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "https://www.nick.com/shows/avatar-the-last-airbender",
+    "id": 246,
+    "in_production": false,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2008-07-19",
+    "last_episode_to_air": {
+      "id": 13575,
+      "overview": "Aang defeats the Fire Lord by bending the elements within the Fire Lord and removing his firebending abilities. After Zuko is taken down protecting Katara from Azula, Katara joins the fight and manages to restrain Azula. Afterwards, Zuko is crowned Fire Lord and promises a better future for the world, while Aang takes his place as the next Avatar. Katara finally shows her love for Aang as they kiss under the setting sun.",
+      "name": "Sozin's Comet: Avatar Aang (4)",
+      "vote_average": 9.167,
+      "vote_count": 42,
+      "air_date": "2008-07-19",
+      "episode_number": 21,
+      "episode_type": "finale",
+      "production_code": "321",
+      "runtime": 24,
+      "season_number": 3,
+      "show_id": 246,
+      "still_path": "/4a93Ud89t51LcvyiDTtWFRscUhE.jpg"
+    },
+    "name": "Avatar: The Last Airbender",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 13,
+        "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
+        "name": "Nickelodeon",
+        "origin_country": "US"
+      }
+    ],
+    "number_of_episodes": 61,
+    "number_of_seasons": 3,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Avatar: The Last Airbender",
+    "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "popularity": 153.54,
+    "poster_path": "/9jUuxbMSp3cwC2DDrSAs2F43Ric.jpg",
+    "production_companies": [
+      {
+        "id": 4859,
+        "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+        "name": "Nickelodeon Animation Studio",
+        "origin_country": "US"
+      },
+      {
+        "id": 8032,
+        "logo_path": null,
+        "name": "JM Animation",
+        "origin_country": "KR"
+      },
+      {
+        "id": 43756,
+        "logo_path": "/bwwJk6P9hycQGwUbWFj07cfyCG4.png",
+        "name": "DR Movie",
+        "origin_country": "KR"
+      },
+      {
+        "id": 8410,
+        "logo_path": null,
+        "name": "Moi Animation",
+        "origin_country": "KR"
+      },
+      {
+        "id": 5371,
+        "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+        "name": "Nickelodeon Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "MY",
+        "name": "Malaysia"
+      },
+      {
+        "iso_3166_1": "SG",
+        "name": "Singapore"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2002-04-30",
+        "episode_count": 24,
+        "id": 788,
+        "name": "Specials",
+        "overview": "Unaired Pilot, Recaps, Specials and DVD extras.",
+        "poster_path": "/qDll9gvIj9vVcgQKtbkad0390kP.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2005-02-21",
+        "episode_count": 20,
+        "id": 785,
+        "name": "Book One: Water",
+        "overview": "Katara and Sokka (a brother and sister from the Southern Water Tribe) discover the Avatar (a 12-year-old Airbender boy named Aang) frozen in an iceberg. Together the three begin their journey to the North Pole to find a master waterbender so Aang can begin his Avatar training!",
+        "poster_path": "/tUG6h0rMtQyOgvqI8r9AqxlKoUP.jpg",
+        "season_number": 1,
+        "vote_average": 7.6
+      },
+      {
+        "air_date": "2006-03-17",
+        "episode_count": 20,
+        "id": 787,
+        "name": "Book Two: Earth",
+        "overview": "Aang, along with Katara, Sokka, and their animal friends Appa and Momo, continues on his quest to fulfill his destiny as the Avatar. According to the Avatar cycle, the group must now enter the Earth Kingdom to search for a master earthbender to teach Aang.",
+        "poster_path": "/quX70K1L7vTLQ9vRJcK0kKcNNFA.jpg",
+        "season_number": 2,
+        "vote_average": 7.9
+      },
+      {
+        "air_date": "2007-09-21",
+        "episode_count": 21,
+        "id": 786,
+        "name": "Book Three: Fire",
+        "overview": "Aang wakes up from his battle with Azula to discover that Ba Sing Se has fallen and the world thinks he's dead. So he and his friends set off undercover across the Fire Nation to find Fire Lord Ozai before the Day of Black Sun. Prince Zuko returns home as the triumphant son, but soon finds the honor he so greatly craved from his father is worthless. New alliances are formed and Team Avatar forges a new plan to stop the Fire Lord. But will they find him in time?",
+        "poster_path": "/roPE4jaHawj1Dm6uIXJHuLDpkNy.jpg",
+        "season_number": 3,
+        "vote_average": 7.9
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "Water. Earth. Fire. Air.",
+    "type": "Scripted",
+    "vote_average": 8.726,
+    "vote_count": 3945
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-03-20",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "https://www.disneyplus.com/series/x-men-97/vc1XIz90ZNH5",
+    "id": 138502,
+    "in_production": true,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2024-05-15",
+    "last_episode_to_air": {
+      "id": 5195795,
+      "overview": "The X-Men's dream is put to the test as mutant-human relations reach a tipping point.",
+      "name": "Tolerance Is Extinction (3)",
+      "vote_average": 8.3,
+      "vote_count": 6,
+      "air_date": "2024-05-15",
+      "episode_number": 10,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 43,
+      "season_number": 1,
+      "show_id": 138502,
+      "still_path": "/uuhP8ILtwpIk4edTiZ9Tu6oGQQm.jpg"
+    },
+    "name": "X-Men '97",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 2739,
+        "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+        "name": "Disney+",
+        "origin_country": ""
+      }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "X-Men '97",
+    "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+    "popularity": 795.087,
+    "poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2024-03-20",
+        "episode_count": 10,
+        "id": 219363,
+        "name": "Season 1",
+        "overview": "Picking up where 'X-Men' left off, the X-Men are in a period of transition, struggling with the loss of Professor X. And while their world is in a strained state of calm when it comes to mutant-human relations—everyone knows that's likely temporary.",
+        "poster_path": "/cVlBAB0nFEQxwuyn1mTfrGjqXuw.jpg",
+        "season_number": 1,
+        "vote_average": 8.4
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "New episodes. New era.",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 339
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+    "created_by": [
+      {
+        "id": 1245733,
+        "credit_id": "57bf827dc3a3684d3400183e",
+        "name": "Justin Roiland",
+        "original_name": "Justin Roiland",
+        "gender": 2,
+        "profile_path": "/wYApP38aXe6ZcEtlBAfNRxJTQQi.jpg"
+      },
+      {
+        "id": 57194,
+        "credit_id": "57bf826fc3a3684d25001b3c",
+        "name": "Dan Harmon",
+        "original_name": "Dan Harmon",
+        "gender": 2,
+        "profile_path": "/gDwFosoyPTd0pmnKParzGj3kaMg.jpg"
+      }
+    ],
+    "episode_run_time": [
+      22
+    ],
+    "first_air_date": "2013-12-02",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      }
+    ],
+    "homepage": "http://www.adultswim.com/videos/rick-and-morty",
+    "id": 60625,
+    "in_production": true,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2023-12-17",
+    "last_episode_to_air": {
+      "id": 4694210,
+      "overview": "A jaded Rick and Morty seek spooky thrills.",
+      "name": "Fear No Mort",
+      "vote_average": 9.2,
+      "vote_count": 16,
+      "air_date": "2023-12-17",
+      "episode_number": 10,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 24,
+      "season_number": 7,
+      "show_id": 60625,
+      "still_path": "/4kKiVFbRxAPxcPDi7rPrUJjyMf6.jpg"
+    },
+    "name": "Rick and Morty",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 80,
+        "logo_path": "/tHZPHOLc6iF27G34cAZGPsMtMSy.png",
+        "name": "Adult Swim",
+        "origin_country": "US"
+      }
+    ],
+    "number_of_episodes": 71,
+    "number_of_seasons": 7,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Rick and Morty",
+    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+    "popularity": 734.6,
+    "poster_path": "/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+    "production_companies": [
+      {
+        "id": 6760,
+        "logo_path": "/h3syDHowNmk61FzlW2GPY0vJCFh.png",
+        "name": "Williams Street",
+        "origin_country": "US"
+      },
+      {
+        "id": 8300,
+        "logo_path": null,
+        "name": "Harmonious Claptrap",
+        "origin_country": "US"
+      },
+      {
+        "id": 47394,
+        "logo_path": null,
+        "name": "Justin Roiland's Solo Vanity Card Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 32542,
+        "logo_path": null,
+        "name": "Starburns Industries",
+        "origin_country": "US"
+      },
+      {
+        "id": 131124,
+        "logo_path": null,
+        "name": "Green Portal Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2016-10-25",
+        "episode_count": 35,
+        "id": 106178,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/3my0MrOKCSYMw8VfLiiM9k00bdF.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2013-12-02",
+        "episode_count": 11,
+        "id": 60059,
+        "name": "Season 1",
+        "overview": "Rick and Morty visit a pawn shop in space, encounter various alternate and virtual realities, and meet the devil at his antique shop.",
+        "poster_path": "/5WexCcWEkcm7yVpOClOLICroGNO.jpg",
+        "season_number": 1,
+        "vote_average": 8
+      },
+      {
+        "air_date": "2015-07-26",
+        "episode_count": 10,
+        "id": 66738,
+        "name": "Season 2",
+        "overview": "After Rick and Morty decided to unfreeze time, they must deal with alien parasites, alternate Jerrys and a decaying, possibly non-existent dimension.",
+        "poster_path": "/zkhGdE29umuKwa6u6mm7e4cXvYY.jpg",
+        "season_number": 2,
+        "vote_average": 8.3
+      },
+      {
+        "air_date": "2017-04-01",
+        "episode_count": 10,
+        "id": 86926,
+        "name": "Season 3",
+        "overview": "Rick and Morty travel to Atlantis and take some time to relax, plus Rick turns himself into a pickle and faces off against the president.",
+        "poster_path": "/7kP0ykqRPyY5anbCOMlR1PtLj8Y.jpg",
+        "season_number": 3,
+        "vote_average": 8.2
+      },
+      {
+        "air_date": "2019-11-10",
+        "episode_count": 10,
+        "id": 128112,
+        "name": "Season 4",
+        "overview": "Everything and nothing makes sense when bizarre genius Rick and his grandson Morty take more interdimensional journeys that bend time and space.",
+        "poster_path": "/87abbwoOfm5MMCWoFewN8pNGZxW.jpg",
+        "season_number": 4,
+        "vote_average": 7.7
+      },
+      {
+        "air_date": "2021-06-20",
+        "episode_count": 10,
+        "id": 188470,
+        "name": "Season 5",
+        "overview": "Hold onto your butts — it’s season five, baby! Rick, Morty and the fam are back with ten all-new episodes that consume unheld butts. Sex, romance, testicle monsters… a guy named Mr. Nimbus… It’s everything you want, get your butt ready!",
+        "poster_path": "/8KdHdOAP8mM4TmykkXnpr6qkyUU.jpg",
+        "season_number": 5,
+        "vote_average": 7.2
+      },
+      {
+        "air_date": "2022-09-04",
+        "episode_count": 10,
+        "id": 302503,
+        "name": "Season 6",
+        "overview": "It’s season six and Rick and Morty are back! Pick up where we left them, worse for wear and down on their luck. Will they manage to bounce back for more adventures? Or will they get swept up in an ocean of piss! Who knows?! Piss! Family! Intrigue! A bunch of dinosaurs! More piss! Another can’t miss season of your favorite show.",
+        "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+        "season_number": 6,
+        "vote_average": 7.6
+      },
+      {
+        "air_date": "2023-10-15",
+        "episode_count": 10,
+        "id": 354041,
+        "name": "Season 7",
+        "overview": "Rick and Morty are back and sounding more like themselves than ever! It's season seven, and the possibilities are endless: what's up with Jerry? EVIL Summer?! And will they ever go back to the high school?! Maybe not! But let's find out! There's probably less piss than last season. \"Rick and Morty,\" 100 years! Or at least until season 10!",
+        "poster_path": "/OXy96OFiLDZIz9jT4Byxk1Hk6b.jpg",
+        "season_number": 7,
+        "vote_average": 8
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "Science makes sense, family doesn't.",
+    "type": "Scripted",
+    "vote_average": 8.701,
+    "vote_count": 9450
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+      25
+    ],
+    "first_air_date": "2009-04-05",
+    "genres": [
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "http://www.hagaren.jp/fa/",
+    "id": 31911,
+    "in_production": false,
+    "languages": [
+      "ja"
+    ],
+    "last_air_date": "2010-07-04",
+    "last_episode_to_air": {
+      "id": 761875,
+      "overview": "As one shared journey ends, many journeys begin. Those most touched by the conflict which surrounded the Philosopher's Stone now go their separate ways. One thing is certain: they will meet again.",
+      "name": "Journey's End",
+      "vote_average": 7.6,
+      "vote_count": 9,
+      "air_date": "2010-07-04",
+      "episode_number": 64,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 25,
+      "season_number": 1,
+      "show_id": 31911,
+      "still_path": "/jzCIX2bXrwTKfWApaJeTDWIASjj.jpg"
+    },
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 94,
+        "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+        "name": "MBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 160,
+        "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+        "name": "TBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 201,
+        "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+        "name": "CBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3970,
+        "logo_path": "/9coKtCf4jSNCdSqGveVFyzvjrZt.png",
+        "name": "SBS",
+        "origin_country": "JP"
+      }
+    ],
+    "number_of_episodes": 64,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "overview": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+    "popularity": 515.796,
+    "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+    "production_companies": [
+      {
+        "id": 2849,
+        "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+        "name": "BONES",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2883,
+        "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+        "name": "Aniplex",
+        "origin_country": "JP"
+      },
+      {
+        "id": 10038,
+        "logo_path": "/nCueXKwYIEXrZ5ofqSJBO1YcmRr.png",
+        "name": "Square Enix",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3363,
+        "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+        "name": "MBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 151984,
+        "logo_path": null,
+        "name": "Techno Sound",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2009-08-26",
+        "episode_count": 20,
+        "id": 43387,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/iQZNlUAUHUGcf9diIePkzkVcCOz.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2009-04-05",
+        "episode_count": 64,
+        "id": 43388,
+        "name": "Season 1",
+        "overview": "",
+        "poster_path": "/1cpXTzrUiMbqcCLsdxRfVIHJsEd.jpg",
+        "season_number": 1,
+        "vote_average": 6.9
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.697,
+    "vote_count": 1944
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gst6mfntiGr2x4mez3ElnH25VIZ.jpg",
+    "created_by": [
+      {
+        "id": 1893575,
+        "credit_id": "655657990816c7011a0c5916",
+        "name": "Ha Byung-hoon",
+        "original_name": "Ha Byung-hoon",
+        "gender": 2,
+        "profile_path": "/cRw6npNuk6zmdA3knCF7a12sj4W.jpg"
+      }
+    ],
+    "episode_run_time": [
+      53
+    ],
+    "first_air_date": "2023-12-15",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "https://www.tving.com/contents/P001748996?utm_source=Naver&utm_medium=Organic&utm_campaign=SERP",
+    "id": 218230,
+    "in_production": false,
+    "languages": [
+      "ko"
+    ],
+    "last_air_date": "2024-01-05",
+    "last_episode_to_air": {
+      "id": 4899130,
+      "overview": "Just one final bullet remains. Will Yee-jae be able to evade death and survive?",
+      "name": "Don't Go Looking For Death. Death Will Come Find You.",
+      "vote_average": 8,
+      "vote_count": 3,
+      "air_date": "2024-01-05",
+      "episode_number": 8,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 40,
+      "season_number": 1,
+      "show_id": 218230,
+      "still_path": "/89VeSJn2KwaFD6nfwGVMfFCX25N.jpg"
+    },
+    "name": "Death's Game",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 3897,
+        "logo_path": "/cfMtt9sNl2bDyHuoPSZouEqDB9N.png",
+        "name": "TVING",
+        "origin_country": "KR"
+      }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "이재, 곧 죽습니다",
+    "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
+    "popularity": 169.421,
+    "poster_path": "/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg",
+    "production_companies": [
+      {
+        "id": 86981,
+        "logo_path": "/8FwCT7KohE031xFLBeRMZlbuzSr.png",
+        "name": "SLL",
+        "origin_country": "KR"
+      },
+      {
+        "id": 114516,
+        "logo_path": "/aLLFFBt7dC0lblRVjGy4IuMxrIA.png",
+        "name": "Saram Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 119174,
+        "logo_path": "/hLiXjOBvOlEA0IdTveoR7MsZwbj.png",
+        "name": "Studio N",
+        "origin_country": "KR"
+      },
+      {
+        "id": 103323,
+        "logo_path": "/6erRU1smLcM353NKVldsYyAFh56.png",
+        "name": "Dexter Studios",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2023-12-15",
+        "episode_count": 8,
+        "id": 324110,
+        "name": "Season 1",
+        "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
+        "poster_path": "/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg",
+        "season_number": 1,
+        "vote_average": 7.7
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "I'm not gonna pay a lot for this after death and became reincarnate.",
+    "type": "Miniseries",
+    "vote_average": 8.679,
+    "vote_count": 265
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/70YdbMELM4b8x8VXjlubymb2bQ0.jpg",
+    "created_by": [
+      {
+        "id": 1223198,
+        "credit_id": "58e43eb492514127f6026873",
+        "name": "Moira Walley-Beckett",
+        "original_name": "Moira Walley-Beckett",
+        "gender": 1,
+        "profile_path": "/1sRNcxMZVsVcY6NFNQzASJuR8By.jpg"
+      }
+    ],
+    "episode_run_time": [
+      47
+    ],
+    "first_air_date": "2017-03-19",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "http://www.cbc.ca/anne/",
+    "id": 70785,
+    "in_production": false,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "last_air_date": "2019-11-24",
+    "last_episode_to_air": {
+      "id": 1985358,
+      "overview": "As the students prepare to depart for Queen’s College, Gilbert takes a final chance. Marilla intervenes on Diana’s behalf. Anne embraces her future but finds that change also brings loss. Elijah returns to Avonlea. Anne has a fateful encounter in Charlottetown. Series finale.",
+      "name": "The Better Feeling of My Heart",
+      "vote_average": 7.5,
+      "vote_count": 10,
+      "air_date": "2019-11-24",
+      "episode_number": 10,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 45,
+      "season_number": 3,
+      "show_id": 70785,
+      "still_path": "/vD9TdKbzOZTFbqrlEu2JZZVtvDD.jpg"
+    },
+    "name": "Anne with an E",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 23,
+        "logo_path": "/cw5WW6cc9UANam4A6o1BDua9njN.png",
+        "name": "CBC Television",
+        "origin_country": "CA"
+      }
+    ],
+    "number_of_episodes": 27,
+    "number_of_seasons": 3,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Anne with an E",
+    "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890’s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
+    "popularity": 184.981,
+    "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+    "production_companies": [
+      {
+        "id": 88009,
+        "logo_path": null,
+        "name": "Northwood Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 152825,
+        "logo_path": null,
+        "name": "Northwood Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2017-03-19",
+        "episode_count": 7,
+        "id": 86320,
+        "name": "Season 1",
+        "overview": "A young orphan's arrival in Avonlea affects the hearts and minds of everyone she meets, beginning with the pair of aging siblings who take her in.",
+        "poster_path": "/lqoGVD3FCahM9faB2SWdpae9Ejt.jpg",
+        "season_number": 1,
+        "vote_average": 8.2
+      },
+      {
+        "air_date": "2018-09-23",
+        "episode_count": 10,
+        "id": 104920,
+        "name": "Season 2",
+        "overview": "Anne's beloved world of Green Gables becomes a much bigger place, with new faces and heartfelt lessons about love, loss and growing up.",
+        "poster_path": "/7bjv63bF07F2SiN6PoJHYqmYRoR.jpg",
+        "season_number": 2,
+        "vote_average": 8.1
+      },
+      {
+        "air_date": "2019-09-22",
+        "episode_count": 10,
+        "id": 131544,
+        "name": "Season 3",
+        "overview": "",
+        "poster_path": "/hSjv6QkGknuJrB8LTjYFv5SPjrr.jpg",
+        "season_number": 3,
+        "vote_average": 8
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Canceled",
+    "tagline": "Welcome back to Green Gables.",
+    "type": "Scripted",
+    "vote_average": 8.679,
+    "vote_count": 4563
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+    "created_by": [],
+    "episode_run_time": [
+      24
+    ],
+    "first_air_date": "2019-04-06",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "https://kimetsu.com/anime",
+    "id": 85937,
+    "in_production": true,
+    "languages": [
+      "ja"
+    ],
+    "last_air_date": "2024-06-09",
+    "last_episode_to_air": {
+      "id": 5337553,
+      "overview": "Thanks to Tanjiro's efforts, Muichiro and the Corps members grew closer through training. After completing his training with Muichiro, Tanjiro heads to Mitsuri's training, where the flexibility exercises turn out to be much harder than they appear. (Added By HindiAnimeVerse .com)",
+      "name": "I Even Ate Demons...",
+      "vote_average": 7,
+      "vote_count": 3,
+      "air_date": "2024-06-09",
+      "episode_number": 5,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 24,
+      "season_number": 5,
+      "show_id": 85937,
+      "still_path": "/iiKJxsJOT69R86Y5QFtUUQmeha.jpg"
+    },
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "next_episode_to_air": {
+      "id": 5337554,
+      "overview": "",
+      "name": "The Strongest of the Demon Slayer Corps",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2024-06-16",
+      "episode_number": 6,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 5,
+      "show_id": 85937,
+      "still_path": "/gimUZcOVCqZ9QTDxjWVBieo1kW5.jpg"
+    },
+    "networks": [
+      {
+        "id": 1,
+        "logo_path": "/4x4GsmRmSLLL0RVNKsoqAVH43tz.png",
+        "name": "Fuji TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 343,
+        "logo_path": "/9rNqtDYAnD6yTOutvHI3synSEs2.png",
+        "name": "Gunma TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 614,
+        "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+        "name": "Tokyo MX",
+        "origin_country": "JP"
+      },
+      {
+        "id": 861,
+        "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+        "name": "BS11",
+        "origin_country": "JP"
+      },
+      {
+        "id": 879,
+        "logo_path": "/pX3gDCsG8WcQvQbCNJ37t5w0HyG.png",
+        "name": "Tokai Television Broadcasting",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1163,
+        "logo_path": "/1J33ZvSff1VOEt3aC8CyKmj9GEy.png",
+        "name": "Kansai TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2478,
+        "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+        "name": "Tochigi TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3535,
+        "logo_path": "/sces9gh6ih1DaD54WXvqHeLMScE.png",
+        "name": "Fukui TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3721,
+        "logo_path": "/vkOmMDoyA8Jj8gDJOyP6CjD06Kj.png",
+        "name": "Hokkaido Cultural Broadcasting",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4799,
+        "logo_path": "/y1F9WoEjz7MhzjN56im3tVKTd1r.png",
+        "name": "Iwate Menkoi Television",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4825,
+        "logo_path": "/9dD3buakf1nS6XQVBwEtm50izs4.png",
+        "name": "TOS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4829,
+        "logo_path": "/qHGklsa90XMreAdYm7AZl6eeaCL.png",
+        "name": "Sendai Television",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4839,
+        "logo_path": "/pRhoUkllLEe3U9341NUCeKdQ7to.png",
+        "name": "SAGA TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4841,
+        "logo_path": "/7QZ9b8bIpNUU5AjdaW6BXcMziY6.png",
+        "name": "Ishikawa TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4850,
+        "logo_path": "/thh0SqE1oh7oOH08ISphk6cRghq.png",
+        "name": "Television Nishinippon",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4851,
+        "logo_path": "/wd94E8WjZwEbu1PLxhNNH0Ny3VT.png",
+        "name": "OHK",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4855,
+        "logo_path": "/vRWtsyWIcIrtw0PXbCbjC4xvXtw.png",
+        "name": "Kochi Sun Sun Broadcasting",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4970,
+        "logo_path": "/6hrEhIW5lIUKeX78BNTzMQ0e8aK.png",
+        "name": "Television Shin Hiroshima System",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5644,
+        "logo_path": "/832SJcpnozaNWKto6hPSpYvDYQU.png",
+        "name": "TV Shizuoka",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6156,
+        "logo_path": "/gxpzF98cV1DHpXzJmXf2Ew6sQvV.png",
+        "name": "UMK TV Miyazaki",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6209,
+        "logo_path": "/fjenNun3vCLtnHHsTpAgVYkubMl.png",
+        "name": "NST",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6210,
+        "logo_path": "/kCNJcIxnOXI4fkc8oZLOk1BZb0o.png",
+        "name": "NBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6211,
+        "logo_path": "/mFM7fx4yt3FOa6leUbBbd8iGZIi.png",
+        "name": "Sakuranbo TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6212,
+        "logo_path": "/eAaH52WuIH4XNlqYSonXZRPRnGE.png",
+        "name": "TSK",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6213,
+        "logo_path": "/np5gbKJvysVLnJKg8g1OxhiA6Qa.png",
+        "name": "Ehime Broadcasting",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6214,
+        "logo_path": "/fF4u5E7SBK4qOoIUOVmr5FbYk2g.png",
+        "name": "KTS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6666,
+        "logo_path": "/rCdk5TWd3RPKTZU1zlhDCEFuzsI.png",
+        "name": "Fukushima TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6670,
+        "logo_path": "/7OAJi6aS9zQWwP64jqxRllBvYKR.png",
+        "name": "NIB",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6819,
+        "logo_path": "/hNbCO6N6F4o09DCGAoz7g0G2E9F.png",
+        "name": "AKT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6821,
+        "logo_path": "/mkTZDdapxuLVS4gzSCwD01DFkbw.png",
+        "name": "Toyama Television",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6822,
+        "logo_path": "/lquU1iSzXNKMWohDVIE91pxDzhE.png",
+        "name": "TV Kumamoto",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6823,
+        "logo_path": "/UQS8TXqK0b367KX6Vw0aOfMB.png",
+        "name": "Okinawa Television Broadcasting",
+        "origin_country": "JP"
+      }
+    ],
+    "number_of_episodes": 67,
+    "number_of_seasons": 5,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鬼滅の刃",
+    "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+    "popularity": 321.341,
+    "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "production_companies": [
+      {
+        "id": 5887,
+        "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+        "name": "ufotable",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2883,
+        "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+        "name": "Aniplex",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2918,
+        "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+        "name": "Shueisha",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2020-08-26",
+        "episode_count": 7,
+        "id": 131803,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/tjyZXCLfavRr9InvtWg3RrF5zW2.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2019-04-06",
+        "episode_count": 26,
+        "id": 116882,
+        "name": "Unwavering Resolve Arc",
+        "overview": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+        "poster_path": "/x2f3rK7GvxalWsa74H87PeVvsZo.jpg",
+        "season_number": 1,
+        "vote_average": 8.1
+      },
+      {
+        "air_date": "2021-10-10",
+        "episode_count": 7,
+        "id": 181846,
+        "name": "Mugen Train Arc",
+        "overview": "Tanjiro and his Demon Slayer friends join Flame Hashira Kyojuro Rengoku aboard the Mugen Train, where over 40 passengers disappeared without a trace.",
+        "poster_path": "/eziUGb6S6ZOPj8xLOuk1aj5Uazx.jpg",
+        "season_number": 2,
+        "vote_average": 8
+      },
+      {
+        "air_date": "2021-12-05",
+        "episode_count": 11,
+        "id": 215073,
+        "name": "Entertainment District Arc",
+        "overview": "Tanjiro, Zenitsu, and Inosuke, aided by the Sound Hashira Tengen Uzui, travel to Yoshiwara red light district to hunt down a demon that has been terrorizing the town.",
+        "poster_path": "/kyhi1OjpifFkfo8gXrRvf9jI7SJ.jpg",
+        "season_number": 3,
+        "vote_average": 7.7
+      },
+      {
+        "air_date": "2023-04-09",
+        "episode_count": 11,
+        "id": 243774,
+        "name": "Swordsmith Village Arc",
+        "overview": "Tanjiro visits swordsmiths' village, where he faces explaining the damage to his sword. While waiting for repairs, the Mist Hashira battles two upper-rank demons with Tanjiro and Genya's aid. But can they handle a regenerating enemy that splits into four bodies?",
+        "poster_path": "/6gD7G8HQay1X8mHiFVttWJ3czYb.jpg",
+        "season_number": 4,
+        "vote_average": 5.8
+      },
+      {
+        "air_date": "2024-05-12",
+        "episode_count": 12,
+        "id": 345811,
+        "name": "Hashira Training Arc",
+        "overview": "",
+        "poster_path": "/htuO1MgCSVfcLYwU3YVSaO2H9iv.jpg",
+        "season_number": 5,
+        "vote_average": 8.6
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 6083
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+    "created_by": [
+      {
+        "id": 24951,
+        "credit_id": "52599cb3760ee34661b60d9a",
+        "name": "Peter Gould",
+        "original_name": "Peter Gould",
+        "gender": 2,
+        "profile_path": "/a2dJSpUiXQ2NAxqSzztr6WsnhOJ.jpg"
+      },
+      {
+        "id": 66633,
+        "credit_id": "52599cb3760ee34661b60d94",
+        "name": "Vince Gilligan",
+        "original_name": "Vince Gilligan",
+        "gender": 2,
+        "profile_path": "/z3E0DhBg1V1PZVEtS9vfFPzOWYB.jpg"
+      }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2015-02-08",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.amc.com/shows/better-call-saul--1002228",
+    "id": 60059,
+    "in_production": false,
+    "languages": [
+      "en",
+      "de",
+      "es"
+    ],
+    "last_air_date": "2022-08-15",
+    "last_episode_to_air": {
+      "id": 3641954,
+      "overview": "Revelations. Regrets. RICO violations. Jimmy's worlds — and identities — converge in one final showdown.",
+      "name": "Saul Gone",
+      "vote_average": 9.356,
+      "vote_count": 59,
+      "air_date": "2022-08-15",
+      "episode_number": 13,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 70,
+      "season_number": 6,
+      "show_id": 60059,
+      "still_path": "/aZFwz8FaM9MXFqwakFnhhNjYZSv.jpg"
+    },
+    "name": "Better Call Saul",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 174,
+        "logo_path": "/alqLicR1ZMHMaZGP3xRQxn9sq7p.png",
+        "name": "AMC",
+        "origin_country": "US"
+      }
+    ],
+    "number_of_episodes": 63,
+    "number_of_seasons": 6,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Better Call Saul",
+    "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
+    "popularity": 457.016,
+    "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+    "production_companies": [
+      {
+        "id": 11073,
+        "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+        "name": "Sony Pictures Television Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 2605,
+        "logo_path": null,
+        "name": "Gran Via Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33742,
+        "logo_path": null,
+        "name": "High Bridge Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2014-12-18",
+        "episode_count": 6,
+        "id": 64929,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/oaF4Fj0FafTEK2CX9aiIW42oABe.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2015-02-08",
+        "episode_count": 10,
+        "id": 60223,
+        "name": "Season 1",
+        "overview": "Jimmy McGill was a small-time lawyer, hustling to make ends meet. This is how the search for his destiny and the story of Saul Goodman collide.",
+        "poster_path": "/bAbZBZmz25Lqk8A8mwMWzAkvlAj.jpg",
+        "season_number": 1,
+        "vote_average": 8.3
+      },
+      {
+        "air_date": "2016-02-15",
+        "episode_count": 10,
+        "id": 72040,
+        "name": "Season 2",
+        "overview": "Jimmy McGill returns with a new outlook on life and growing appetites that will push his career -- and his relationships -- into uncharted territory.",
+        "poster_path": "/4NDwAQjFD8bTOsMKxYdl8IK10R9.jpg",
+        "season_number": 2,
+        "vote_average": 8.1
+      },
+      {
+        "air_date": "2017-04-10",
+        "episode_count": 10,
+        "id": 83956,
+        "name": "Season 3",
+        "overview": "Jimmy resorts to ever more desperate measures to keep his law career afloat, while Mike is drawn into the orbit of a mysterious new figure.",
+        "poster_path": "/dHIMW3CkL21jYWtsHiAdwkCjAej.jpg",
+        "season_number": 3,
+        "vote_average": 8.5
+      },
+      {
+        "air_date": "2018-08-06",
+        "episode_count": 10,
+        "id": 104603,
+        "name": "Season 4",
+        "overview": "As Jimmy copes with a shocking loss, a series of shady schemes propel him deeper into the criminal world -- and closer to his life as Saul Goodman.",
+        "poster_path": "/8zvIqLFOrBymKKI3L2W1AH8YZQI.jpg",
+        "season_number": 4,
+        "vote_average": 8.5
+      },
+      {
+        "air_date": "2020-02-23",
+        "episode_count": 10,
+        "id": 136162,
+        "name": "Season 5",
+        "overview": "Changing his name to Saul Goodman, Jimmy recruits a new crop of clients. Kim wrestles with a moral dilemma at work. Lalo's feud with Gus heats up.",
+        "poster_path": "/dZHa2vUtYNQ81KV38eHGjn0P4JE.jpg",
+        "season_number": 5,
+        "vote_average": 8.7
+      },
+      {
+        "air_date": "2022-04-18",
+        "episode_count": 13,
+        "id": 243392,
+        "name": "Season 6",
+        "overview": "Showdowns, dirty deeds and a flood of new clients: Jimmy's transformation comes full circle.",
+        "poster_path": "/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
+        "season_number": 6,
+        "vote_average": 8.7
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "Putting the \"criminal\" in \"criminal lawyer.\"",
+    "type": "Scripted",
+    "vote_average": 8.675,
+    "vote_count": 4908
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+    "created_by": [
+      {
+        "id": 35796,
+        "credit_id": "5ca7a5990e0a264c69f04ea8",
+        "name": "Craig Mazin",
+        "original_name": "Craig Mazin",
+        "gender": 2,
+        "profile_path": "/uEhna6qcMuyU5TP7irpTUZ2ZsZc.jpg"
+      }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2019-05-06",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.hbo.com/chernobyl",
+    "id": 87108,
+    "in_production": false,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2019-06-03",
+    "last_episode_to_air": {
+      "id": 1747127,
+      "overview": "Valery Legasov, Boris Shcherbina and Ulana Khomyuk risk their lives and reputations to expose the truth about Chernobyl.",
+      "name": "Vichnaya Pamyat",
+      "vote_average": 9.298,
+      "vote_count": 161,
+      "air_date": "2019-06-03",
+      "episode_number": 5,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 73,
+      "season_number": 1,
+      "show_id": 87108,
+      "still_path": "/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg"
+    },
+    "name": "Chernobyl",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 49,
+        "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+        "name": "HBO",
+        "origin_country": "US"
+      }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Chernobyl",
+    "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+    "popularity": 104.907,
+    "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "production_companies": [
+      {
+        "id": 112447,
+        "logo_path": "/kL6jD0jB836NqSfBusvjmYX1wAB.png",
+        "name": "SISTER",
+        "origin_country": "GB"
+      },
+      {
+        "id": 115241,
+        "logo_path": null,
+        "name": "The Mighty Mint",
+        "origin_country": "US"
+      },
+      {
+        "id": 119645,
+        "logo_path": null,
+        "name": "Word Games",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2019-05-05",
+        "episode_count": 5,
+        "id": 119454,
+        "name": "Miniseries",
+        "overview": "",
+        "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+        "season_number": 1,
+        "vote_average": 9
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "What is the cost of lies?",
+    "type": "Miniseries",
+    "vote_average": 8.668,
+    "vote_count": 5993
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cHyY5z4txdVyGtYMvBJhCqCcJso.jpg",
+    "created_by": [
+      {
+        "id": 1853492,
+        "credit_id": "5db5110ad40d4c0012fc0a10",
+        "name": "Dana Terrace",
+        "original_name": "Dana Terrace",
+        "gender": 1,
+        "profile_path": null
+      }
+    ],
+    "episode_run_time": [
+      22
+    ],
+    "first_air_date": "2020-01-10",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "https://disneynow.com/shows/the-owl-house",
+    "id": 92685,
+    "in_production": false,
+    "languages": [
+      "en",
+      "da",
+      "pt",
+      "es"
+    ],
+    "last_air_date": "2023-04-08",
+    "last_episode_to_air": {
+      "id": 3954937,
+      "overview": "The fate of the Boiling Isles rests on the shoulders of a human, a cursed witch and a little King.",
+      "name": "Watching and Dreaming",
+      "vote_average": 8.1,
+      "vote_count": 8,
+      "air_date": "2023-04-08",
+      "episode_number": 3,
+      "episode_type": "finale",
+      "production_code": "303",
+      "runtime": 55,
+      "season_number": 3,
+      "show_id": 92685,
+      "still_path": "/1NRYnIEMmkgrkDsFgMfLrpVS1uh.jpg"
+    },
+    "name": "The Owl House",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 54,
+        "logo_path": "/gvhBea9OGqChmGKHa5CntbmsDBp.png",
+        "name": "Disney Channel",
+        "origin_country": "US"
+      }
+    ],
+    "number_of_episodes": 43,
+    "number_of_seasons": 3,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Owl House",
+    "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+    "popularity": 193.296,
+    "poster_path": "/zhdy3PcNVE15wj1wrxn45ARZBnx.jpg",
+    "production_companies": [
+      {
+        "id": 3475,
+        "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+        "name": "Disney Television Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 142198,
+        "logo_path": "/p01DTJ87SKywfMdvTqwmAp5Fmh7.png",
+        "name": "Rough Draft Korea",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2020-04-04",
+        "episode_count": 5,
+        "id": 200842,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/yr2EpMCgn7525kZ0rsfWP6UQDn8.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2020-01-10",
+        "episode_count": 19,
+        "id": 130506,
+        "name": "Season 1",
+        "overview": "",
+        "poster_path": "/qi5krqO5eE0vKRhzsO3K07pP5wq.jpg",
+        "season_number": 1,
+        "vote_average": 7.7
+      },
+      {
+        "air_date": "2021-06-12",
+        "episode_count": 21,
+        "id": 195681,
+        "name": "Season 2",
+        "overview": "",
+        "poster_path": "/aLn1OO2qL9nsHJgtIf2x821eAPr.jpg",
+        "season_number": 2,
+        "vote_average": 8.5
+      },
+      {
+        "air_date": "2022-10-15",
+        "episode_count": 3,
+        "id": 307729,
+        "name": "Season 3",
+        "overview": "",
+        "poster_path": "/saDIfdPlAn5vzKfQzhI5BxSU1Rn.jpg",
+        "season_number": 3,
+        "vote_average": 8.7
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Danish",
+        "iso_639_1": "da",
+        "name": "Dansk"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "Us weirdos have to stick together.",
+    "type": "Scripted",
+    "vote_average": 8.667,
+    "vote_count": 1524
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2013-04-07",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      }
+    ],
+    "homepage": "https://shingeki.tv/",
+    "id": 1429,
+    "in_production": false,
+    "languages": [
+      "ja"
+    ],
+    "last_air_date": "2022-04-04",
+    "last_episode_to_air": {
+      "id": 3508327,
+      "overview": "Regardless of where it all began, Eren commits to his path of destruction during the Scouts' first visit to the Marleyan mainland, leaving Mikasa to wonder if things could've been different.",
+      "name": "The Dawn of Humanity",
+      "vote_average": 8.727,
+      "vote_count": 22,
+      "air_date": "2022-04-04",
+      "episode_number": 28,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 23,
+      "season_number": 4,
+      "show_id": 1429,
+      "still_path": "/eu8TEJlYFWIWpPHyYw61JMMyPAB.jpg"
+    },
+    "name": "Attack on Titan",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 94,
+        "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+        "name": "MBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 469,
+        "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+        "name": "NHK G",
+        "origin_country": "JP"
+      },
+      {
+        "id": 614,
+        "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+        "name": "Tokyo MX",
+        "origin_country": "JP"
+      }
+    ],
+    "number_of_episodes": 87,
+    "number_of_seasons": 4,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "進撃の巨人",
+    "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+    "popularity": 287.008,
+    "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+    "production_companies": [
+      {
+        "id": 529,
+        "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+        "name": "Production I.G",
+        "origin_country": "JP"
+      },
+      {
+        "id": 21444,
+        "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+        "name": "MAPPA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 31058,
+        "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+        "name": "WIT STUDIO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 9148,
+        "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+        "name": "Pony Canyon",
+        "origin_country": "JP"
+      },
+      {
+        "id": 151984,
+        "logo_path": null,
+        "name": "Techno Sound",
+        "origin_country": "JP"
+      },
+      {
+        "id": 59118,
+        "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+        "name": "Kodansha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1778,
+        "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+        "name": "dentsu",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3363,
+        "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+        "name": "MBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 170262,
+        "logo_path": null,
+        "name": "Pony Canyon Enterprise",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2013-07-07",
+        "episode_count": 49,
+        "id": 3789,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/no3dkH44ywREi0la8tw4TnA1GxN.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2013-04-07",
+        "episode_count": 25,
+        "id": 3788,
+        "name": "Season 1",
+        "overview": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
+        "poster_path": "/gC78bsXhdU2PwT3FkLcn8R5YcHb.jpg",
+        "season_number": 1,
+        "vote_average": 8.2
+      },
+      {
+        "air_date": "2017-04-01",
+        "episode_count": 12,
+        "id": 84756,
+        "name": "Season 2",
+        "overview": "Eren Yeager and others of the 104th Training Corps have just begun to become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose—but all is not as it seems as more mysteries are unraveled. As the Survey Corps races to save the wall, they uncover more about the invading Titans and the dark secrets of their own members.",
+        "poster_path": "/2fhK0wbFixskgRyuq6YvaMn75et.jpg",
+        "season_number": 2,
+        "vote_average": 8.4
+      },
+      {
+        "air_date": "2018-07-23",
+        "episode_count": 22,
+        "id": 98013,
+        "name": "Season 3",
+        "overview": "Eren and his companions in the 104th are assigned to the newly-formed Levi Squad, whose assignment is to keep Eren and Historia safe given Eren's newly-discovered power and Historia's knowledge and pedigree. Levi and Erwin have good reason to be concerned, because the priest of the Church that Hange had hidden away was found tortured to death, making it clear that the Military Police are involved with the cover-up. Things get more harrowing when the MPs make a move on Erwin and the Levi Squad narrowly avoids capture. Eren is also having problems with his Titan transformation, and a deadly killer has been hired to secure Eren and Historia, one Levi knows all too well from his youth.\n\nThen, hoping to retake Wall Maria and find the answers humanity seeks in Grisha's basement, Eren, Mikasa, Armin and the rest of the Survey Corps return to the town where everything began: Shiganshina.",
+        "poster_path": "/2F3sYFneiKcrwboD0bOqb29cGET.jpg",
+        "season_number": 3,
+        "vote_average": 8.4
+      },
+      {
+        "air_date": "2020-12-07",
+        "episode_count": 28,
+        "id": 126952,
+        "name": "The Final Season",
+        "overview": "The truth revealed through the memories of Grisha's journals shakes all of Eren's deepest beliefs. There is no rugged but free land beyond the walls. There is a whole other world, equally full of oppression and war. Suddenly, the ambitions that have animated the Survey Corps for generations seem small and naive. What is there left to fight for?",
+        "poster_path": "/iUsrnXfubNwhM8FRNEmzXmLfxB2.jpg",
+        "season_number": 4,
+        "vote_average": 8.5
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.664,
+    "vote_count": 6105
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qvbFdPvXMliwwrWlfUStcHc96JQ.jpg",
+    "created_by": [
+      {
+        "id": 78013,
+        "credit_id": "5c1c6601c3a3685117ebe645",
+        "name": "Dallas Jenkins",
+        "original_name": "Dallas Jenkins",
+        "gender": 2,
+        "profile_path": "/wT8IWvvUtGgBAy1vkSObQgfA4e8.jpg"
+      }
+    ],
+    "episode_run_time": [
+      43
+    ],
+    "first_air_date": "2019-04-21",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "https://watch.thechosen.tv",
+    "id": 85077,
+    "in_production": true,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2024-06-09",
+    "last_episode_to_air": {
+      "id": 4828947,
+      "overview": "When Jesus heals a blind man on the Sabbath, religious leaders confront him, drawing a riotous crowd. Gaius defies a direct order leading Quintus to take matters—and someone’s life—into his own hands.",
+      "name": "Moon to Blood",
+      "vote_average": 10,
+      "vote_count": 1,
+      "air_date": "2024-06-09",
+      "episode_number": 3,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 58,
+      "season_number": 4,
+      "show_id": 85077,
+      "still_path": "/pDa77WHKOOHukEnnC0rV2jQfK2n.jpg"
+    },
+    "name": "The Chosen",
+    "next_episode_to_air": {
+      "id": 4828948,
+      "overview": "Beginning with a funeral procession, time marches rapidly toward the final days of Jesus’ ministry. While the disciples seek status for themselves, a Roman ruler comes with a humble request.",
+      "name": "Calm Before",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2024-06-13",
+      "episode_number": 4,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 66,
+      "season_number": 4,
+      "show_id": 85077,
+      "still_path": "/aG2NU3SPnEk7Zeu97lbtB7I3dDQ.jpg"
+    },
+    "networks": [
+      {
+        "id": 2858,
+        "logo_path": "/sAjGRESY88vDlneZxANanA6JKrd.png",
+        "name": "VidAngel",
+        "origin_country": "US"
+      },
+      {
+        "id": 3081,
+        "logo_path": "/hd06NykccJ7sEa4Ugv5MFNRzgQU.png",
+        "name": "Angel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 7577,
+        "logo_path": null,
+        "name": "TheChosen.tv",
+        "origin_country": ""
+      }
+    ],
+    "number_of_episodes": 32,
+    "number_of_seasons": 4,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Chosen",
+    "overview": "The life of Christ through the eyes of those who encountered him called The Chosen.",
+    "popularity": 341.341,
+    "poster_path": "/2pnZWHg9E34LLwLBLYUPLdZwer8.jpg",
+    "production_companies": [
+      {
+        "id": 212920,
+        "logo_path": null,
+        "name": "Loaves & Fishes Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 211135,
+        "logo_path": null,
+        "name": "Out of Order Studios",
+        "origin_country": ""
+      },
+      {
+        "id": 226339,
+        "logo_path": null,
+        "name": "Come and See",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2017-09-20",
+        "episode_count": 18,
+        "id": 123367,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/wNyVhOgNDk4ssSGuKFjYFh1gbCw.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2019-04-21",
+        "episode_count": 8,
+        "id": 114668,
+        "name": "Season 1",
+        "overview": "A charismatic fisherman drowning in debt. A troubled woman wrestling with real demons. A gifted publican ostracized by his family and his people. A religious leader struggling with his beliefs. See Jesus through the eyes of those who met Him.",
+        "poster_path": "/7NvfO0frsVDwyvjWU05f52Uyewu.jpg",
+        "season_number": 1,
+        "vote_average": 9
+      },
+      {
+        "air_date": "2021-04-04",
+        "episode_count": 8,
+        "id": 188921,
+        "name": "Season 2",
+        "overview": "Tensions rise as Jesus and his disciples take the ministry on the road. With increased fame comes more redemption and healing, but also more enemies.",
+        "poster_path": "/7BlVc2aOBbUA07rAihcmG9bkOH3.jpg",
+        "season_number": 2,
+        "vote_average": 8.9
+      },
+      {
+        "air_date": "2022-12-11",
+        "episode_count": 8,
+        "id": 317067,
+        "name": "Season 3",
+        "overview": "Jesus gives a sermon that turns the world upside down, and all 12 disciples are ready to follow him to the ends of the earth.",
+        "poster_path": "/j2ZxdRAak7CmO6iRY7KS2dttSjx.jpg",
+        "season_number": 3,
+        "vote_average": 9
+      },
+      {
+        "air_date": "2024-06-02",
+        "episode_count": 8,
+        "id": 361545,
+        "name": "Season 4",
+        "overview": "After preaching to a crowd of more than 5,000 people in Galilee and performing a miracle by walking on water, Jesus’ actions increasingly anger Jewish authorities.",
+        "poster_path": "/vzRT3e40OxonspeG4FfCGvVVcmG.jpg",
+        "season_number": 4,
+        "vote_average": 10
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "Rise up.",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 303
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2w8FaLwwJTWr6ExUMeVgT2Th5YT.jpg",
+    "created_by": [
+      {
+        "id": 4396168,
+        "credit_id": "657e1feb8f26bc13977517a6",
+        "name": "George Morikawa",
+        "original_name": "George Morikawa",
+        "gender": 2,
+        "profile_path": null
+      }
+    ],
+    "episode_run_time": [
+      24
+    ],
+    "first_air_date": "2000-10-03",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      }
+    ],
+    "homepage": "http://www.vap.co.jp/ippo3/",
+    "id": 42705,
+    "in_production": false,
+    "languages": [
+      "ja"
+    ],
+    "last_air_date": "2014-03-29",
+    "last_episode_to_air": {
+      "id": 993387,
+      "overview": "Kamogawa resorts to pounding a log with his bare fists as he trains to face Anderson and avenge Nekota. Anderson rediscovers his pride as a boxer and brings Miguel along as his cornerman. Everything comes down to this!",
+      "name": "A Vow",
+      "vote_average": 10,
+      "vote_count": 2,
+      "air_date": "2014-03-29",
+      "episode_number": 25,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 24,
+      "season_number": 3,
+      "show_id": 42705,
+      "still_path": "/wdUlvMixwd1aJJ68eKUewqTycHV.jpg"
+    },
+    "name": "Fighting Spirit",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 57,
+        "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+        "name": "Nippon TV",
+        "origin_country": "JP"
+      }
+    ],
+    "number_of_episodes": 126,
+    "number_of_seasons": 3,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はじめの一歩",
+    "overview": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+    "popularity": 310.236,
+    "poster_path": "/i3U3J2MWovIBZBnZYYiOLBXqNJZ.jpg",
+    "production_companies": [
+      {
+        "id": 3464,
+        "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+        "name": "Madhouse",
+        "origin_country": "JP"
+      },
+      {
+        "id": 21444,
+        "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+        "name": "MAPPA",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2003-03-21",
+        "episode_count": 3,
+        "id": 52312,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/gjDkE5Oa707LaDWDihh8G3B9gHI.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2000-10-03",
+        "episode_count": 75,
+        "id": 52311,
+        "name": "The First Step",
+        "overview": "",
+        "poster_path": "/oG4xyOhHfNpsYXQysE7bYh3FBtX.jpg",
+        "season_number": 1,
+        "vote_average": 9.5
+      },
+      {
+        "air_date": "2009-01-06",
+        "episode_count": 26,
+        "id": 52313,
+        "name": "New Challenger",
+        "overview": "Ippo Makunouchi continues his boxing career and his goal on knowing the meaning of being strong, and the desire on fighting his idol Ichiro Miyata once again. Along him are pro boxers Takamura, Aoki and Kimura that each one of them aspire to their own dreams. the continuation after Ippo won his Japan Championship match.",
+        "poster_path": "/5PSYvbA1LXueNyDDPIwL11372VQ.jpg",
+        "season_number": 2,
+        "vote_average": 10
+      },
+      {
+        "air_date": "2013-10-06",
+        "episode_count": 25,
+        "id": 59715,
+        "name": "Rising",
+        "overview": "Hajime no Ippo: Rising continues Ippo's quest to become stronger, featuring the same cast of loveable dimwits from Kamogawa Gym, as they put their bodies and hearts on the line to make their way in the harsh world of professional boxing. With a will of iron, Ippo steps into the ring once again.",
+        "poster_path": "/vvj28BXa350Ft7DArhKKtk2yvhu.jpg",
+        "season_number": 3,
+        "vote_average": 10
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "The moment you back down is the moment you lose!",
+    "type": "Scripted",
+    "vote_average": 8.659,
+    "vote_count": 991
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "created_by": [
+      {
+        "id": 1251237,
+        "credit_id": "62d3d7c553f8330401f550ff",
+        "name": "Hong Mi-ran",
+        "original_name": "홍미란",
+        "gender": 1,
+        "profile_path": "/zdsUkZRfYZdh76Y6Cd2g9wTcFW1.jpg"
+      },
+      {
+        "id": 1251238,
+        "credit_id": "62d3d7bf91745b004cbaf09b",
+        "name": "Hong Jeong-eun",
+        "original_name": "홍정은",
+        "gender": 1,
+        "profile_path": "/esIyjpCEh7MK087ivjOisJ7ZOKj.jpg"
+      },
+      {
+        "id": 1463872,
+        "credit_id": "6480d9a199c964013b029591",
+        "name": "Park Joon-hwa",
+        "original_name": "Park Joon-hwa",
+        "gender": 2,
+        "profile_path": "/etjHXvHDpfFqCwZCfGhhg8L9oUY.jpg"
+      }
+    ],
+    "episode_run_time": [
+      75
+    ],
+    "first_air_date": "2022-06-18",
+    "genres": [
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "https://program.tving.com/tvn/alchemyofsouls",
+    "id": 135157,
+    "in_production": false,
+    "languages": [
+      "ko"
+    ],
+    "last_air_date": "2023-01-08",
+    "last_episode_to_air": {
+      "id": 3926131,
+      "overview": "Jin Ho-gyeong takes a risk to protect Jinyowon and its treasures from attack. Having had a glimpse into the future, Uk braces for the inevitable.",
+      "name": "Episode 10",
+      "vote_average": 9,
+      "vote_count": 2,
+      "air_date": "2023-01-08",
+      "episode_number": 10,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": 84,
+      "season_number": 2,
+      "show_id": 135157,
+      "still_path": "/rcKP1eYnwXRLJa2tQqEZnJ1fKSh.jpg"
+    },
+    "name": "Alchemy of Souls",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 866,
+        "logo_path": "/aRDq8zBrX3YLpHSfueNQBkNnn7b.png",
+        "name": "tvN",
+        "origin_country": "KR"
+      }
+    ],
+    "number_of_episodes": 30,
+    "number_of_seasons": 2,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "환혼",
+    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+    "popularity": 174.28,
+    "poster_path": "/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg",
+    "production_companies": [
+      {
+        "id": 86418,
+        "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
+        "name": "Studio Dragon",
+        "origin_country": "KR"
+      },
+      {
+        "id": 216772,
+        "logo_path": null,
+        "name": "T.S Narincinema",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2022-08-13",
+        "episode_count": 2,
+        "id": 304582,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/bl8c0iKCXcdoEZdFRl1d1U4i0qJ.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2022-06-18",
+        "episode_count": 20,
+        "id": 213453,
+        "name": "Season 1",
+        "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+        "poster_path": "/lPPZW1nZhVQ3B0GnP4ZZ4Q3ZGdL.jpg",
+        "season_number": 1,
+        "vote_average": 8.9
+      },
+      {
+        "air_date": "2022-12-10",
+        "episode_count": 10,
+        "id": 306954,
+        "name": "Season 2",
+        "overview": "Jang Uk, now a fierce but troubled hunter of the soul shifters, meets an imprisoned young woman who seeks his help to reclaim her freedom.",
+        "poster_path": "/i6XtaT8oiAkIKhN6LZgoau3BHic.jpg",
+        "season_number": 2,
+        "vote_average": 9.7
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Ended",
+    "tagline": "alchemyofsouls",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 513
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-03-25",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      },
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.amazon.com/dp/B08WJP55PR",
+    "id": 95557,
+    "in_production": true,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2024-04-04",
+    "last_episode_to_air": {
+      "id": 5093140,
+      "overview": "An old enemy threatens everything Mark holds dear.",
+      "name": "I THOUGHT YOU WERE STRONGER",
+      "vote_average": 8.4,
+      "vote_count": 5,
+      "air_date": "2024-04-04",
+      "episode_number": 8,
+      "episode_type": "finale",
+      "production_code": "INVI 208",
+      "runtime": 54,
+      "season_number": 2,
+      "show_id": 95557,
+      "still_path": "/ryzxY6WuqbuQlg2TbnfQFDsyMoo.jpg"
+    },
+    "name": "INVINCIBLE",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 1024,
+        "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+        "name": "Prime Video",
+        "origin_country": ""
+      }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "INVINCIBLE",
+    "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+    "popularity": 230.364,
+    "poster_path": "/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg",
+    "production_companies": [
+      {
+        "id": 20580,
+        "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+        "name": "Amazon Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 151645,
+        "logo_path": null,
+        "name": "Skybound North",
+        "origin_country": "CA"
+      },
+      {
+        "id": 50032,
+        "logo_path": "/ojrMksdtR7Bs2vwERU1LCrjv7vx.png",
+        "name": "Skybound Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 215052,
+        "logo_path": null,
+        "name": "Skybound Animation",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2023-07-21",
+        "episode_count": 1,
+        "id": 349664,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/rJcVipFPY6JdFaDPan10f0OhbpM.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2021-03-25",
+        "episode_count": 8,
+        "id": 136020,
+        "name": "Season 1",
+        "overview": "Nolan Grayson (Omni-Man) is unquestionably the strongest being on our planet; he is also our most spirited protector, having saved the planet from untold calamity. His son Mark, wants nothing more than to follow in his footsteps. But there's something sinister afoot and Omni-man may not be what he appears. Which may prove even too much for the Guardians of the Globe.",
+        "poster_path": "/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+        "season_number": 1,
+        "vote_average": 8.1
+      },
+      {
+        "air_date": "2023-11-02",
+        "episode_count": 8,
+        "id": 325266,
+        "name": "Season 2",
+        "overview": "In Season 2, still reeling from Nolan's betrayal, Mark struggles to rebuild his life as he faces a host of new threats, all while battling his greatest fear - that he might become his father without even knowing it.",
+        "poster_path": "/lxVS24ZhG3WQf3IMbkFIg6olT6A.jpg",
+        "season_number": 2,
+        "vote_average": 8.3
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "Almost there.",
+    "type": "Scripted",
+    "vote_average": 8.655,
+    "vote_count": 4280
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cH39aJg9VlEaYo6yY37Iah8RAaz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+      24
+    ],
+    "first_air_date": "2016-04-03",
+    "genres": [
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10765,
+        "name": "Sci-Fi & Fantasy"
+      }
+    ],
+    "homepage": "http://www.heroaca.com/",
+    "id": 65930,
+    "in_production": true,
+    "languages": [
+      "ja"
+    ],
+    "last_air_date": "2024-06-01",
+    "last_episode_to_air": {
+      "id": 5244962,
+      "overview": "It's finally time for the decisive battle between heroes and villains! The plan by All Might, Aizawa, and the others has them start their fights in various places around Japan!",
+      "name": "Division",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2024-06-08",
+      "episode_number": 6,
+      "episode_type": "standard",
+      "production_code": "144",
+      "runtime": 24,
+      "season_number": 7,
+      "show_id": 65930,
+      "still_path": "/oRHJN18F3GrtnDrqNGlG5j2Lz64.jpg"
+    },
+    "name": "My Hero Academia",
+    "next_episode_to_air": {
+      "id": 5244964,
+      "overview": "",
+      "name": "Inflation",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2024-06-15",
+      "episode_number": 7,
+      "episode_type": "standard",
+      "production_code": "145",
+      "runtime": 24,
+      "season_number": 7,
+      "show_id": 65930,
+      "still_path": null
+    },
+    "networks": [
+      {
+        "id": 57,
+        "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+        "name": "Nippon TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 94,
+        "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+        "name": "MBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 160,
+        "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+        "name": "TBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 201,
+        "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+        "name": "CBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 569,
+        "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+        "name": "YTV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 896,
+        "logo_path": "/qfUzYnpnN5bnd2bqGUH0OlAMell.png",
+        "name": "Tulip Television",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1559,
+        "logo_path": "/artkCykJgOAh6lAjfrNNgANasgk.png",
+        "name": "SBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1896,
+        "logo_path": "/suqJy99xiGr8PV7eQovUFRgquYT.png",
+        "name": "FBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2460,
+        "logo_path": "/34sNEcsgcTAuDidRMrgxdfNyVjL.png",
+        "name": "BSN",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2461,
+        "logo_path": "/b4Ivxqz6UY0EogjYc09Y22ctC6F.png",
+        "name": "tys",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2462,
+        "logo_path": "/7zXfwh5ZhFqvdOWgWX80weU6Sqb.png",
+        "name": "NBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2727,
+        "logo_path": "/85U2onICiQV9fMHORxw8EWSQ6MZ.png",
+        "name": "Chukyo TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2728,
+        "logo_path": "/kwC7bfbGknKuL7uxKahk6paamlp.png",
+        "name": "RNB",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3201,
+        "logo_path": "/4OpeDJ8jzPeaSiOlzGCnHjm6tpt.png",
+        "name": "HTV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3644,
+        "logo_path": "/8Cue5NzJ6cucpA5k73GVrCqn2JI.png",
+        "name": "FCT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3658,
+        "logo_path": "/sJwRsE1lfMwAwYZi1OtRfn7V03t.png",
+        "name": "HBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3698,
+        "logo_path": "/rrw1HbmPpR9GQ3K19taPCYYf5jY.png",
+        "name": "STV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3705,
+        "logo_path": "/zOgixhlAa61yUb32bsXvRtD63wI.png",
+        "name": "RKK",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3741,
+        "logo_path": "/hiI8H4WLDlCtRZQboq4BTdM2KAg.png",
+        "name": "KNB",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3969,
+        "logo_path": "/nhCsLIGjzIIp6jIFCdHN0cQEzjP.png",
+        "name": "i-Television",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3970,
+        "logo_path": "/9coKtCf4jSNCdSqGveVFyzvjrZt.png",
+        "name": "SBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3971,
+        "logo_path": "/6bhZ2SWdYTbSTQf8Bhmf1q0aBef.png",
+        "name": "IBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3972,
+        "logo_path": "/rL2IlndcEiQnIbym5EoSEM7rGlx.png",
+        "name": "BSS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3973,
+        "logo_path": "/dh4E8hGvqD9Xqu51kbqUU06UKbt.png",
+        "name": "MRO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3974,
+        "logo_path": "/yMQxsmGs88q54bslmcSeXlmpObC.png",
+        "name": "OBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3975,
+        "logo_path": "/6ACZlk44MWsIIwYHxjRGXGKlpRb.png",
+        "name": "TUF",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3977,
+        "logo_path": "/sGMMrdCmptaLLwJX7CsXTDaduLO.png",
+        "name": "RSK",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3978,
+        "logo_path": "/zOz9LK6WWLUWGuG0fthzDzCIXlA.png",
+        "name": "TUY",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3979,
+        "logo_path": "/yWlWHPUn6FHjNUulL1vp8croYFw.png",
+        "name": "tbc",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4748,
+        "logo_path": "/o5Hlt7ZXJPEm4Qrx2Pl2rtc9A5y.png",
+        "name": "RKB",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4790,
+        "logo_path": "/5aEqvKUgffp6zehXyCUhJyzeZPg.png",
+        "name": "YBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4791,
+        "logo_path": "/e9WRfzkc8HNsZ1qEF26ENHlBMvn.png",
+        "name": "KTK",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4792,
+        "logo_path": "/8kzeHaKeW3gZubs3cqlGWFvfJI7.png",
+        "name": "KUTVC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4797,
+        "logo_path": "/ggNJJiuB0mT4cQckN9h6jxT7exe.png",
+        "name": "NKT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4815,
+        "logo_path": "/igW7DjfUZ8Ew7BLzCxKHKpeFFL3.png",
+        "name": "RAB",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4816,
+        "logo_path": "/9qQIAEYEw1ZyPPK3tqE18Z00AwW.png",
+        "name": "TVI",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4817,
+        "logo_path": "/oxuY8YFFO6Iv1IicYRGFcLizERc.png",
+        "name": "MMT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4818,
+        "logo_path": "/rddkLH5IZoh5IW5b6FHgrOBjBgE.png",
+        "name": "ABS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4822,
+        "logo_path": "/xX0I9Sc0AxSoKoVtwwmz0DWOWcr.png",
+        "name": "JRT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4825,
+        "logo_path": "/9dD3buakf1nS6XQVBwEtm50izs4.png",
+        "name": "TOS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 4859,
+        "logo_path": "/6jr76BpIItwLV5oKbZmRJsVh3c6.png",
+        "name": "RBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6155,
+        "logo_path": "/cvePJ33fR2SeirKZWD8rCV7rAaF.png",
+        "name": "YBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6171,
+        "logo_path": "/ekXN1cfYutjLfudy1MKyGzNynEa.png",
+        "name": "UTY",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6172,
+        "logo_path": "/mKslL0MTHHt9ukugWOv3Vh8Tn0E.png",
+        "name": "RCC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6173,
+        "logo_path": "/YfewT1YYtAqkgvdu8oCX4mnJCs.png",
+        "name": "MRT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6174,
+        "logo_path": "/aawphEBuBGT9RVP6xG3BZV8NOCw.png",
+        "name": "ATV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6175,
+        "logo_path": "/iaaU6q82URj2mBbjQIbfAMUz14J.png",
+        "name": "MBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6286,
+        "logo_path": "/mcA2WrzDxg1MuZ2TnewjVZaTvM2.png",
+        "name": "TSB",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6668,
+        "logo_path": "/atlFO76SPaLGIt9Wmxzg23M0IoA.png",
+        "name": "TeNY",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6669,
+        "logo_path": "/w9VRiRNT3OrP09OHXl6i1nGFWiL.png",
+        "name": "RNC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6670,
+        "logo_path": "/7OAJi6aS9zQWwP64jqxRllBvYKR.png",
+        "name": "NIB",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6671,
+        "logo_path": "/jd0KEJ6Md6JBRWjxTHRU9BYpbuv.png",
+        "name": "KKT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 7076,
+        "logo_path": "/tFePbc4dqJzcUaHeKAQkhRgT5zJ.png",
+        "name": "Daiichi-TV",
+        "origin_country": "JP"
+      },
+      {
+        "id": 7077,
+        "logo_path": "/r1vdmMUpIGnGvLE3UMqkuEtWlG4.png",
+        "name": "FBC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 7078,
+        "logo_path": "/7QYtCUc3PxYvOQ0NDOw3vQHAIJh.png",
+        "name": "RKC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 7079,
+        "logo_path": "/wqeYNfsn0LSwbmQGPkcqMg5yhpW.png",
+        "name": "KYT",
+        "origin_country": "JP"
+      },
+      {
+        "id": 7092,
+        "logo_path": "/5IzL2Fq2yErfy4LH96KX5PKOAbv.png",
+        "name": "KRY",
+        "origin_country": "JP"
+      }
+    ],
+    "number_of_episodes": 150,
+    "number_of_seasons": 7,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "僕のヒーローアカデミア",
+    "overview": "A superhero-admiring boy without any powers enrolls in a prestigious hero academy and learns what it really means to be a hero.",
+    "popularity": 128.504,
+    "poster_path": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+    "production_companies": [
+      {
+        "id": 2849,
+        "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+        "name": "BONES",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2918,
+        "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+        "name": "Shueisha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3466,
+        "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+        "name": "movic",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1778,
+        "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+        "name": "dentsu",
+        "origin_country": "JP"
+      },
+      {
+        "id": 11727,
+        "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+        "name": "Yomiuri Telecasting Corporation",
+        "origin_country": "JP"
+      },
+      {
+        "id": 648,
+        "logo_path": "/s811As3dkcqSgl4nEWEVYfJVVxh.png",
+        "name": "Sony Music Entertainment",
+        "origin_country": "JP"
+      },
+      {
+        "id": 882,
+        "logo_path": "/iDw9Xxok1d9WAM2zFicI8p3khTH.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2017-04-04",
+        "episode_count": 12,
+        "id": 88919,
+        "name": "Specials",
+        "overview": "",
+        "poster_path": "/jEoUOaOzdf00lsTV7EW2ARcB9Pb.jpg",
+        "season_number": 0,
+        "vote_average": 0
+      },
+      {
+        "air_date": "2016-04-03",
+        "episode_count": 13,
+        "id": 75441,
+        "name": "Season 1",
+        "overview": "",
+        "poster_path": "/6TKenGHaTGMvlMMKfMBoFHU2mVj.jpg",
+        "season_number": 1,
+        "vote_average": 7.6
+      },
+      {
+        "air_date": "2017-04-01",
+        "episode_count": 25,
+        "id": 86525,
+        "name": "Season 2",
+        "overview": "",
+        "poster_path": "/bLggKZhdEHhvax9jeT95MDxM6CA.jpg",
+        "season_number": 2,
+        "vote_average": 7.3
+      },
+      {
+        "air_date": "2018-04-07",
+        "episode_count": 25,
+        "id": 100397,
+        "name": "Season 3",
+        "overview": "",
+        "poster_path": "/1VVJgXpSDI2uMHnlzI9Eg0zF7pw.jpg",
+        "season_number": 3,
+        "vote_average": 6.4
+      },
+      {
+        "air_date": "2019-10-12",
+        "episode_count": 25,
+        "id": 125861,
+        "name": "Season 4",
+        "overview": "",
+        "poster_path": "/YCI5ADVr0JBboX0V3C3apAOtNH.jpg",
+        "season_number": 4,
+        "vote_average": 6.6
+      },
+      {
+        "air_date": "2021-03-27",
+        "episode_count": 25,
+        "id": 149686,
+        "name": "Season 5",
+        "overview": "",
+        "poster_path": "/uJz848GKjbSqjCkkF1J99HN9VaG.jpg",
+        "season_number": 5,
+        "vote_average": 6.6
+      },
+      {
+        "air_date": "2022-10-01",
+        "episode_count": 25,
+        "id": 236472,
+        "name": "Season 6",
+        "overview": "",
+        "poster_path": "/wSrSvGVxlYaTylTulqueeNQJyvR.jpg",
+        "season_number": 6,
+        "vote_average": 8.3
+      },
+      {
+        "air_date": "2024-05-04",
+        "episode_count": 12,
+        "id": 356358,
+        "name": "Season 7",
+        "overview": "",
+        "poster_path": "/GS8yE0MI4IqpRyJ6SMMKPzmU9T.jpg",
+        "season_number": 7,
+        "vote_average": 7.4
+      }
+    ],
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.652,
+    "vote_count": 4744
+  }
+]

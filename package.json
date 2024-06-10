@@ -5,7 +5,7 @@
   "scripts": {
     "dev:all": "concurrently --kill-others \"pnpm:devtauri\" \"pnpm:devts\"",
     "devtauri": "pnpm tauri dev",
-    "devts": "cd tempserver && pnpm dev",
+    "devts": "cd ts && pnpm dev",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
